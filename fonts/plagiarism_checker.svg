@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="41" viewBox="0 0 31 41">
+  <g id="Plagiarism_Checker" data-name="Plagiarism Checker" transform="translate(-38.375 -34)">
+    <g id="Group_1952" data-name="Group 1952" transform="translate(38.875 34.5)">
+      <g id="Group_1950" data-name="Group 1950">
+        <path id="Path_1444" data-name="Path 1444" d="M66.018,74.5H41.732a2.857,2.857,0,0,1-2.857-2.857V37.357A2.857,2.857,0,0,1,41.732,34.5H58.525a2.853,2.853,0,0,1,2.019.837l7.494,7.494a2.852,2.852,0,0,1,.837,2.019V71.643A2.857,2.857,0,0,1,66.018,74.5Z" transform="translate(-38.875 -34.5)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_1445" data-name="Path 1445" d="M55.49,37.885v7.143h7.143" transform="translate(-36.501 -34.016)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <g id="Group_1949" data-name="Group 1949" transform="translate(5.56 31.143)">
+          <line id="Line_42" data-name="Line 42" x2="18.88" transform="translate(0 4.286)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+          <line id="Line_43" data-name="Line 43" x2="11.737" transform="translate(7.143)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+          <line id="Line_44" data-name="Line 44" x2="3.165" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_1951" data-name="Group 1951" transform="translate(9.159 15.854)">
+        <circle id="Ellipse_66" data-name="Ellipse 66" cx="4.26" cy="4.26" r="4.26" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_45" data-name="Line 45" x2="3.565" y2="3.565" transform="translate(7.273 7.273)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
