@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="33" viewBox="0 0 41 33">
+  <g id="Backlink_Checker" data-name="Backlink Checker" transform="translate(-34 -37.9)">
+    <g id="Group_2181" data-name="Group 2181" transform="translate(34.5 38.4)">
+      <g id="Group_2177" data-name="Group 2177">
+        <g id="Group_2175" data-name="Group 2175">
+          <rect id="Rectangle_463" data-name="Rectangle 463" width="40" height="32" rx="2" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Group_2176" data-name="Group 2176" transform="translate(2.343 1.943)">
+          <circle id="Ellipse_97" data-name="Ellipse 97" cx="0.825" cy="0.825" r="0.825" fill="#1e70b9"/>
+          <circle id="Ellipse_98" data-name="Ellipse 98" cx="0.825" cy="0.825" r="0.825" transform="translate(3.298)" fill="#1e70b9"/>
+          <circle id="Ellipse_99" data-name="Ellipse 99" cx="0.825" cy="0.825" r="0.825" transform="translate(6.596)" fill="#1e70b9"/>
+        </g>
+        <line id="Line_148" data-name="Line 148" x2="40" transform="translate(0 5.935)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_2180" data-name="Group 2180" transform="translate(11.884 11.051)">
+        <g id="Group_2179" data-name="Group 2179">
+          <g id="Group_2178" data-name="Group 2178">
+            <rect id="Rectangle_464" data-name="Rectangle 464" width="7.806" height="5.251" rx="2.241" transform="translate(6.999 5.52) rotate(-45)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+            <rect id="Rectangle_465" data-name="Rectangle 465" width="7.806" height="5.251" rx="2.241" transform="translate(0 12.519) rotate(-45)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+          </g>
+          <line id="Line_149" data-name="Line 149" y1="3.59" x2="3.59" transform="translate(6.321 6.463)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

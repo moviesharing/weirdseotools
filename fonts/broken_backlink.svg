@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <g id="Broken_Backlink_Checker" data-name="Broken Backlink Checker" transform="translate(-286 -119.333)">
+    <rect id="Rectangle_486" data-name="Rectangle 486" width="40" height="40" rx="2.5" transform="translate(286.5 119.833)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+    <g id="Group_2259" data-name="Group 2259" transform="translate(293.937 127.27)">
+      <g id="Group_2258" data-name="Group 2258">
+        <path id="Path_1541" data-name="Path 1541" d="M308.851,141.264l6.643-6.643a4.693,4.693,0,0,0-6.637-6.637l-6.643,6.643" transform="translate(-291.743 -126.608)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Path_1542" data-name="Path 1542" d="M301.294,135.546l-6.644,6.645a4.693,4.693,0,0,0,0,6.637h0a4.7,4.7,0,0,0,6.637,0l6.644-6.645" transform="translate(-293.275 -125.076)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <line id="Line_168" data-name="Line 168" x1="17.767" y2="17.767" transform="translate(3.68 3.68)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

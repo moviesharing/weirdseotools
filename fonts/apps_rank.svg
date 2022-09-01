@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="41" viewBox="0 0 26 41">
+  <g id="Apps_Rank_Tracking_Tool" data-name="Apps Rank Tracking Tool" transform="translate(-124.5 -544.667)">
+    <g id="Group_2650" data-name="Group 2650" transform="translate(125 545.167)">
+      <g id="Group_2648" data-name="Group 2648">
+        <g id="Group_2647" data-name="Group 2647">
+          <rect id="Rectangle_598" data-name="Rectangle 598" width="25" height="40" rx="2.5" transform="translate(0 0)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+          <line id="Line_300" data-name="Line 300" x2="25" transform="translate(0 6)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <line id="Line_301" data-name="Line 301" x2="25" transform="translate(0 34)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <circle id="Ellipse_184" data-name="Ellipse 184" cx="0.857" cy="0.857" r="0.857" transform="translate(11.714 36.286)" fill="#1e70b9"/>
+        </g>
+      </g>
+      <g id="Group_2649" data-name="Group 2649" transform="translate(5.503 16.095)">
+        <path id="Path_1719" data-name="Path 1719" d="M129.815,567.06l3.936-3.421,3.533,2.249,6.667-6.639" transform="translate(-129.815 -559.249)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Path_1720" data-name="Path 1720" d="M137.749,559.249h5.069v5.069" transform="translate(-128.682 -559.249)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

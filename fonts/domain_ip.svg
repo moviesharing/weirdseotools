@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="33" viewBox="0 0 41 33">
+  <g id="Domain_To_IP" data-name="Domain To IP" transform="translate(-202 -122.833)">
+    <g id="Group_2723" data-name="Group 2723" transform="translate(202.5 123.333)">
+      <g id="Group_2721" data-name="Group 2721">
+        <g id="Group_2720" data-name="Group 2720">
+          <g id="Group_2718" data-name="Group 2718">
+            <rect id="Rectangle_617" data-name="Rectangle 617" width="40" height="32" rx="2" transform="translate(0 0)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+          </g>
+          <g id="Group_2719" data-name="Group 2719" transform="translate(2.28 2.28)">
+            <circle id="Ellipse_222" data-name="Ellipse 222" cx="0.802" cy="0.802" r="0.802" fill="#1e70b9"/>
+            <circle id="Ellipse_223" data-name="Ellipse 223" cx="0.802" cy="0.802" r="0.802" transform="translate(3.21)" fill="#1e70b9"/>
+            <circle id="Ellipse_224" data-name="Ellipse 224" cx="0.802" cy="0.802" r="0.802" transform="translate(6.42)" fill="#1e70b9"/>
+          </g>
+          <line id="Line_321" data-name="Line 321" x2="39.904" transform="translate(0 6.165)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_2722" data-name="Group 2722" transform="translate(11.921 11.013)">
+        <circle id="Ellipse_225" data-name="Ellipse 225" cx="8.031" cy="8.031" r="8.031" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+        <ellipse id="Ellipse_226" data-name="Ellipse 226" cx="3.108" cy="8.031" rx="3.108" ry="8.031" transform="translate(4.923)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_322" data-name="Line 322" x2="16.063" transform="translate(0 8.031)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

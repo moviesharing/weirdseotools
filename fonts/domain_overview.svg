@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="33" viewBox="0 0 41 33">
+  <g id="Website_Checker" data-name="Website Checker" transform="translate(-33.54 -801.532)">
+    <g id="Group_2475" data-name="Group 2475" transform="translate(34.04 802.032)">
+      <g id="Group_2472" data-name="Group 2472" transform="translate(0)">
+        <g id="Group_2471" data-name="Group 2471">
+          <g id="Group_2470" data-name="Group 2470">
+            <g id="Group_2468" data-name="Group 2468">
+              <rect id="Rectangle_560" data-name="Rectangle 560" width="40" height="32" rx="2" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Group_2469" data-name="Group 2469" transform="translate(2.75 2.258)">
+              <circle id="Ellipse_140" data-name="Ellipse 140" cx="0.806" cy="0.806" r="0.806" fill="#1e70b9"/>
+              <circle id="Ellipse_141" data-name="Ellipse 141" cx="0.806" cy="0.806" r="0.806" transform="translate(3.224)" fill="#1e70b9"/>
+              <circle id="Ellipse_142" data-name="Ellipse 142" cx="0.806" cy="0.806" r="0.806" transform="translate(6.448)" fill="#1e70b9"/>
+            </g>
+            <line id="Line_241" data-name="Line 241" x2="39.08" transform="translate(0.46 6.161)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_2474" data-name="Group 2474" transform="translate(13.64 12.736)">
+        <g id="Group_2473" data-name="Group 2473">
+          <circle id="Ellipse_143" data-name="Ellipse 143" cx="5.308" cy="5.308" r="5.308" transform="translate(2.105)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+          <line id="Line_242" data-name="Line 242" x1="3.66" y2="3.66" transform="translate(0 9.061)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

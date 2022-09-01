@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37" height="35" viewBox="0 0 37 35">
+  <g id="Age_Calculator" data-name="Age Calculator" transform="translate(535.337 -448.748)">
+    <path id="Path_2125" data-name="Path 2125" d="M17.514,15.248h20.1a3.378,3.378,0,0,1,3.35,3.406v23.84a3.379,3.379,0,0,1-3.35,3.406h-20.1a3.38,3.38,0,0,1-3.351-3.406V18.654a3.379,3.379,0,0,1,3.351-3.406" transform="translate(-549 434)" fill="#fff"/>
+    <path id="Rectangle_591" data-name="Rectangle 591" d="M3.351,0h20.1a3.35,3.35,0,0,1,3.35,3.35V27.3a3.351,3.351,0,0,1-3.351,3.351H3.351A3.351,3.351,0,0,1,0,27.3V3.351A3.351,3.351,0,0,1,3.351,0Z" transform="translate(-534.837 449.248)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_2126" data-name="Path 2126" d="M22.54,21.949H32.592a1.675,1.675,0,0,1,1.675,1.675V25.3a1.675,1.675,0,0,1-1.675,1.675H22.54A1.675,1.675,0,0,1,20.865,25.3V23.624a1.675,1.675,0,0,1,1.675-1.675" transform="translate(-548.902 434.117)" fill="#fff"/>
+    <rect id="Rectangle_592" data-name="Rectangle 592" width="13.402" height="5.026" rx="1.675" transform="translate(-528.036 456.066)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_482" data-name="Line 482" x2="3.362" transform="translate(-529.849 467.949)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_483" data-name="Line 483" x2="3.362" transform="translate(-522.996 467.966)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_484" data-name="Line 484" x2="3.362" transform="translate(-522.996 467.966)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_485" data-name="Line 485" x2="3.362" transform="translate(-516.227 467.873)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_486" data-name="Line 486" x2="3.362" transform="translate(-529.849 473.05)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_487" data-name="Line 487" x2="3.362" transform="translate(-522.996 473.067)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_488" data-name="Line 488" x2="3.362" transform="translate(-516.227 472.973)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_2127" data-name="Path 2127" d="M49.836,38.627A10.125,10.125,0,1,1,39.711,28.5,10.125,10.125,0,0,1,49.836,38.627" transform="translate(-548.673 434.496)" fill="#fff"/>
+    <circle id="Ellipse_200" data-name="Ellipse 200" cx="10.125" cy="10.125" r="10.125" transform="translate(-519.087 462.998)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <text id="AGE" transform="translate(-515.75 475.378)" fill="#1e70b9" font-size="7.017" font-family="Gilroy-ExtraBold, Gilroy ☞" font-weight="800"><tspan x="0" y="0" letter-spacing="-0.024em">A</tspan><tspan y="0">GE</tspan></text>
+  </g>
+</svg>

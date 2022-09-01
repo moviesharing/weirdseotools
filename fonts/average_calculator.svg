@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36.673" height="34.504" viewBox="0 0 36.673 34.504">
+  <g id="Average_Calculator" data-name="Average Calculator" transform="translate(321.545 -447.748)">
+    <path id="Path_2135" data-name="Path 2135" d="M17.306,15.248h20.1A3.35,3.35,0,0,1,40.76,18.6V42.053A3.351,3.351,0,0,1,37.41,45.4h-20.1a3.352,3.352,0,0,1-3.351-3.351V18.6a3.351,3.351,0,0,1,3.351-3.351" transform="translate(-335 433)" fill="#fff"/>
+    <path id="Rectangle_597" data-name="Rectangle 597" d="M3.351,0h20.1a3.35,3.35,0,0,1,3.35,3.35V26.805a3.351,3.351,0,0,1-3.351,3.351H3.351A3.351,3.351,0,0,1,0,26.805V3.351A3.351,3.351,0,0,1,3.351,0Z" transform="translate(-321.045 448.248)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_2136" data-name="Path 2136" d="M22.332,21.949H32.384a1.675,1.675,0,0,1,1.675,1.675V25.3a1.675,1.675,0,0,1-1.675,1.675H22.332A1.675,1.675,0,0,1,20.657,25.3V23.624a1.675,1.675,0,0,1,1.675-1.675" transform="translate(-335 433)" fill="#fff"/>
+    <rect id="Rectangle_598" data-name="Rectangle 598" width="13.402" height="5.026" rx="1.675" transform="translate(-314.343 454.949)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_498" data-name="Line 498" x2="3.362" transform="translate(-316.057 466.677)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_499" data-name="Line 499" x2="3.362" transform="translate(-309.323 466.693)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_500" data-name="Line 500" x2="3.362" transform="translate(-309.323 466.693)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_501" data-name="Line 501" x2="3.362" transform="translate(-302.622 466.601)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_502" data-name="Line 502" x2="3.362" transform="translate(-316.057 471.703)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_503" data-name="Line 503" x2="3.362" transform="translate(-309.323 471.719)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_504" data-name="Line 504" x2="3.362" transform="translate(-302.622 471.627)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_2137" data-name="Path 2137" d="M49.628,38.627A10.125,10.125,0,1,1,39.5,28.5,10.125,10.125,0,0,1,49.628,38.627" transform="translate(-335 433)" fill="#fff"/>
+    <circle id="Ellipse_204" data-name="Ellipse 204" cx="10.125" cy="10.125" r="10.125" transform="translate(-305.622 461.502)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_2138" data-name="Path 2138" d="M35.269,37.6l2.386-2.386a.145.145,0,0,1,.2,0l1.455,1.454a.143.143,0,0,0,.2,0l3.215-3.215" transform="translate(-335 433)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_2139" data-name="Path 2139" d="M39.92,33.355h2.628a.275.275,0,0,1,.275.275v2.628" transform="translate(-335 433)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_505" data-name="Line 505" y2="2.599" transform="translate(-299.06 473.339)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_506" data-name="Line 506" y2="4.213" transform="translate(-293.862 471.725)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_507" data-name="Line 507" y2="3.137" transform="translate(-296.461 472.801)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_508" data-name="Line 508" y2="5.41" transform="translate(-291.263 470.528)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

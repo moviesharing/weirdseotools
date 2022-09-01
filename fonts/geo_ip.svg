@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <g id="GEO_IP_Locator" data-name="GEO IP Locator" transform="translate(-34 -544.667)">
+    <rect id="Rectangle_597" data-name="Rectangle 597" width="40" height="40" rx="2.5" transform="translate(34.5 545.167)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <g id="Group_2645" data-name="Group 2645" transform="translate(46.032 552.547)">
+      <path id="Path_1718" data-name="Path 1718" d="M60.2,564.157l-7.211,12.49-7.21-12.49a8.216,8.216,0,0,1-1.126-4.145A8.33,8.33,0,1,1,60.2,564.157Z" transform="translate(-44.657 -551.667)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <circle id="Ellipse_183" data-name="Ellipse 183" cx="3.276" cy="3.276" r="3.276" transform="translate(5.062 4.917)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+    </g>
+  </g>
+</svg>

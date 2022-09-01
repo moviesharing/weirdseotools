@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <g id="Cloaking_Checker" data-name="Cloaking Checker" transform="translate(-117.641 -373.641)">
+    <g id="Group_2614" data-name="Group 2614" transform="translate(118.142 374.142)">
+      <rect id="Rectangle_587" data-name="Rectangle 587" width="40" height="40" rx="2.5" transform="translate(0)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+      <g id="Group_2613" data-name="Group 2613" transform="translate(7.34 7.339)">
+        <g id="Group_2612" data-name="Group 2612">
+          <g id="Group_2611" data-name="Group 2611">
+            <path id="Path_1698" data-name="Path 1698" d="M149.914,386.358l-4.17,4.17-3.648-1.3-1.3-3.648,4.17-4.17a7.857,7.857,0,0,0-10,9.8,3.846,3.846,0,0,0-.328.289l-8.564,8.565a3.67,3.67,0,0,0,5.191,5.19l8.564-8.564a3.862,3.862,0,0,0,.29-.328,7.856,7.856,0,0,0,9.795-10Zm0,0" transform="translate(-125 -381)" fill="#fff" stroke="#1e70b9" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <circle id="Ellipse_176" data-name="Ellipse 176" cx="1.439" cy="1.439" r="1.439" transform="translate(2.485 19.959)" fill="#fff" stroke="#1e70b9" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

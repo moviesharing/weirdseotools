@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="41" viewBox="0 0 31 41">
+  <g id="Code_To_Text_Ratio_Checker" data-name="Code To Text Ratio Checker" transform="translate(-38.375 -119.333)">
+    <g id="Group_2508" data-name="Group 2508" transform="translate(38.875 119.833)">
+      <path id="Path_1650" data-name="Path 1650" d="M66.018,159.833H41.732a2.857,2.857,0,0,1-2.857-2.857V122.69a2.857,2.857,0,0,1,2.857-2.857H58.525a2.854,2.854,0,0,1,2.019.838l7.494,7.493a2.857,2.857,0,0,1,.837,2.021v26.792A2.857,2.857,0,0,1,66.018,159.833Z" transform="translate(-38.875 -119.833)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_1651" data-name="Path 1651" d="M55.49,123.219v7.157h7.157" transform="translate(-36.523 -119.342)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <g id="Group_2507" data-name="Group 2507" transform="translate(5.542 31.126)">
+        <line id="Line_251" data-name="Line 251" x2="18.917" transform="translate(0 4.294)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_252" data-name="Line 252" x2="11.76" transform="translate(7.157)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_253" data-name="Line 253" x2="3.172" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Group_2510" data-name="Group 2510" transform="translate(45.717 135.796)">
+      <g id="Group_2509" data-name="Group 2509">
+        <path id="Path_1652" data-name="Path 1652" d="M49.77,134.771l-4.895,4.079,4.895,4.079" transform="translate(-44.876 -133.671)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Path_1653" data-name="Path 1653" d="M54.85,142.929l4.895-4.079-4.895-4.079" transform="translate(-43.428 -133.671)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_254" data-name="Line 254" x1="3.091" y2="10.358" transform="translate(6.613)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

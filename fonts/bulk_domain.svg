@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="33" viewBox="0 0 41 33">
+  <g id="Bulk_Domain_Rating_Checker" data-name="Bulk Domain Rating Checker" transform="translate(-118 -208.167)">
+    <g id="Group_2763" data-name="Group 2763" transform="translate(118.5 208.667)">
+      <g id="Group_2758" data-name="Group 2758">
+        <g id="Group_2757" data-name="Group 2757">
+          <g id="Group_2755" data-name="Group 2755">
+            <rect id="Rectangle_622" data-name="Rectangle 622" width="40" height="32" rx="2" transform="translate(0 0)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+          </g>
+          <g id="Group_2756" data-name="Group 2756" transform="translate(2.267 2.267)">
+            <circle id="Ellipse_229" data-name="Ellipse 229" cx="0.798" cy="0.798" r="0.798" fill="#1e70b9"/>
+            <circle id="Ellipse_230" data-name="Ellipse 230" cx="0.798" cy="0.798" r="0.798" transform="translate(3.192)" fill="#1e70b9"/>
+            <circle id="Ellipse_231" data-name="Ellipse 231" cx="0.798" cy="0.798" r="0.798" transform="translate(6.383)" fill="#1e70b9"/>
+          </g>
+          <line id="Line_333" data-name="Line 333" x2="39.679" transform="translate(0 6.131)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_2759" data-name="Group 2759" transform="translate(4.535 10.951)">
+        <circle id="Ellipse_232" data-name="Ellipse 232" cx="7.986" cy="7.986" r="7.986" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+        <ellipse id="Ellipse_233" data-name="Ellipse 233" cx="3.091" cy="7.986" rx="3.091" ry="7.986" transform="translate(4.895)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_334" data-name="Line 334" x2="15.972" transform="translate(0 7.986)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <g id="Group_2762" data-name="Group 2762" transform="translate(24.41 14.402)">
+        <g id="Group_2760" data-name="Group 2760">
+          <line id="Line_335" data-name="Line 335" x1="10.734" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+          <line id="Line_336" data-name="Line 336" x1="6.199" transform="translate(0 2.267)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        </g>
+        <g id="Group_2761" data-name="Group 2761" transform="translate(0 6.802)">
+          <line id="Line_337" data-name="Line 337" x1="10.734" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+          <line id="Line_338" data-name="Line 338" x1="6.199" transform="translate(0 2.267)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

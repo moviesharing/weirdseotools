@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <g id="Crop_Image" data-name="Crop Image" transform="translate(-202 -119.333)">
+    <g id="Group_2053" data-name="Group 2053" transform="translate(202.5 119.833)">
+      <path id="Rectangle_421" data-name="Rectangle 421" d="M0,0H22.125a2.5,2.5,0,0,1,2.5,2.5V24.625a0,0,0,0,1,0,0H2.5a2.5,2.5,0,0,1-2.5-2.5V0A0,0,0,0,1,0,0Z" transform="translate(7.687 7.687)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <g id="Group_2051" data-name="Group 2051">
+        <line id="Line_86" data-name="Line 86" y1="7.687" transform="translate(7.687)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_87" data-name="Line 87" x1="7.687" transform="translate(0 7.687)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <g id="Group_2052" data-name="Group 2052" transform="translate(32.313 32.313)">
+        <line id="Line_88" data-name="Line 88" y2="7.687" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_89" data-name="Line 89" x2="7.687" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

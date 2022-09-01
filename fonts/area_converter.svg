@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <g id="Area_Converter" data-name="Area Converter" transform="translate(-286 -119.333)">
+    <g id="Group_3040" data-name="Group 3040" transform="translate(286.5 119.833)">
+      <g id="Group_3039" data-name="Group 3039">
+        <g id="Group_3038" data-name="Group 3038">
+          <g id="Group_3031" data-name="Group 3031">
+            <rect id="Rectangle_701" data-name="Rectangle 701" width="34.783" height="34.783" rx="2.5" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Group_3032" data-name="Group 3032" transform="translate(5.963 5.963)">
+            <rect id="Rectangle_702" data-name="Rectangle 702" width="18.286" height="18.286" transform="translate(2.286 2.286)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+            <rect id="Rectangle_703" data-name="Rectangle 703" width="4.571" height="4.571" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <rect id="Rectangle_704" data-name="Rectangle 704" width="4.571" height="4.571" transform="translate(18.286)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+            <rect id="Rectangle_705" data-name="Rectangle 705" width="4.571" height="4.571" transform="translate(0 18.286)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+            <rect id="Rectangle_706" data-name="Rectangle 706" width="4.571" height="4.571" transform="translate(18.286 18.286)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+          </g>
+          <g id="Group_3037" data-name="Group 3037" transform="translate(24.696 24.696)">
+            <g id="Group_3033" data-name="Group 3033">
+              <rect id="Rectangle_707" data-name="Rectangle 707" width="15.304" height="15.304" rx="2.5" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Group_3036" data-name="Group 3036" transform="translate(3.795 4.075)">
+              <g id="Group_3034" data-name="Group 3034" transform="translate(0 4.721)">
+                <path id="Path_1841" data-name="Path 1841" d="M311.841,149.139a3.574,3.574,0,0,0,6.774,0" transform="translate(-311.371 -149.139)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+                <path id="Path_1842" data-name="Path 1842" d="M311.43,150.794l.47-1.655,1.617.581" transform="translate(-311.43 -149.139)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+              </g>
+              <g id="Group_3035" data-name="Group 3035" transform="translate(0.47)">
+                <path id="Path_1843" data-name="Path 1843" d="M318.615,147.44a3.574,3.574,0,0,0-6.774,0" transform="translate(-311.841 -145.008)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+                <path id="Path_1844" data-name="Path 1844" d="M318.44,145.688l-.47,1.655-1.617-.581" transform="translate(-311.197 -144.911)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
