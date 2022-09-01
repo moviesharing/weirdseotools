@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="33" viewBox="0 0 41 33">
+  <g id="Whois_Lookup" data-name="Whois Lookup" transform="translate(-201.537 -208.197)">
+    <g id="Group_2545" data-name="Group 2545" transform="translate(202.037 208.697)">
+      <g id="Group_2544" data-name="Group 2544" transform="translate(0)">
+        <g id="Group_2542" data-name="Group 2542">
+          <rect id="Rectangle_578" data-name="Rectangle 578" width="40" height="32" rx="2" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Group_2543" data-name="Group 2543" transform="translate(2.753 2.26)">
+          <circle id="Ellipse_162" data-name="Ellipse 162" cx="0.806" cy="0.806" r="0.806" fill="#1e70b9"/>
+          <circle id="Ellipse_163" data-name="Ellipse 163" cx="0.806" cy="0.806" r="0.806" transform="translate(3.224)" fill="#1e70b9"/>
+          <circle id="Ellipse_164" data-name="Ellipse 164" cx="0.806" cy="0.806" r="0.806" transform="translate(6.447)" fill="#1e70b9"/>
+        </g>
+        <line id="Line_266" data-name="Line 266" x2="39.074" transform="translate(0.463 6.162)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Group_2547" data-name="Group 2547" transform="translate(210.18 222.173)">
+      <g id="Group_2546" data-name="Group 2546">
+        <path id="Path_1679" data-name="Path 1679" d="M221.5,231.7a15.389,15.389,0,0,0,11.8-5.465.24.24,0,0,0,0-.308,15.475,15.475,0,0,0-23.6,0,.24.24,0,0,0,0,.308,15.442,15.442,0,0,0,11.8,5.465Zm0,0" transform="translate(-209.644 -220.463)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <circle id="Ellipse_165" data-name="Ellipse 165" cx="2.529" cy="2.529" r="2.529" transform="translate(9.328 3.09)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+    </g>
+  </g>
+</svg>

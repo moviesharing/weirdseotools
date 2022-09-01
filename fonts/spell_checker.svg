@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="41" viewBox="0 0 31 41">
+  <g id="spell_checker" data-name="spell checker" transform="translate(-38.375 -119.333)">
+    <g id="Group_1974" data-name="Group 1974" transform="translate(38.875 119.833)">
+      <g id="Group_1973" data-name="Group 1973">
+        <path id="Path_1460" data-name="Path 1460" d="M66.018,159.833H41.732a2.857,2.857,0,0,1-2.857-2.857V122.69a2.857,2.857,0,0,1,2.857-2.857H58.525a2.854,2.854,0,0,1,2.019.838l7.494,7.493a2.857,2.857,0,0,1,.837,2.021v26.792A2.857,2.857,0,0,1,66.018,159.833Z" transform="translate(-38.875 -119.833)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_1461" data-name="Path 1461" d="M55.49,123.219v7.133h7.133" transform="translate(-36.487 -119.354)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <g id="Group_1972" data-name="Group 1972" transform="translate(5.573 31.155)">
+          <line id="Line_54" data-name="Line 54" x2="18.855" transform="translate(0 4.28)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+          <line id="Line_55" data-name="Line 55" x2="11.721" transform="translate(7.133)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+          <line id="Line_56" data-name="Line 56" x2="3.161" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        </g>
+      </g>
+      <path id="Path_1462" data-name="Path 1462" d="M47,138.985l3.689,3.689,7.725-7.725" transform="translate(-37.707 -117.668)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

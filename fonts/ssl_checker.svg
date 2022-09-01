@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <g id="SSL_Checker" data-name="SSL Checker" transform="translate(-118 -459.333)">
+    <g id="Group_2633" data-name="Group 2633" transform="translate(118.5 459.833)">
+      <rect id="Rectangle_590" data-name="Rectangle 590" width="40" height="40" rx="2.5" transform="translate(0 0)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+      <g id="Group_2632" data-name="Group 2632" transform="translate(11.15 8.522)">
+        <g id="Group_2631" data-name="Group 2631">
+          <path id="Rectangle_591" data-name="Rectangle 591" d="M4.45,0H5.663a4.45,4.45,0,0,1,4.45,4.45V8.658a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4.45A4.45,4.45,0,0,1,4.45,0Z" transform="translate(3.678)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+          <rect id="Rectangle_592" data-name="Rectangle 592" width="17.469" height="14.067" rx="2.5" transform="translate(0 8.658)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+        </g>
+        <path id="Path_1717" data-name="Path 1717" d="M132.631,482.237l2.047,2.047,5.609-5.609" transform="translate(-127.724 -465.788)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

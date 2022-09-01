@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <g id="Temperature_Conversion" data-name="Temperature Conversion" transform="translate(-202 -204.667)">
+    <g id="Group_3076" data-name="Group 3076" transform="translate(202.5 205.167)">
+      <g id="Group_3067" data-name="Group 3067">
+        <rect id="Rectangle_714" data-name="Rectangle 714" width="34.783" height="34.783" rx="2.5" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_3072" data-name="Group 3072" transform="translate(24.696 24.696)">
+        <g id="Group_3068" data-name="Group 3068">
+          <rect id="Rectangle_715" data-name="Rectangle 715" width="15.304" height="15.304" rx="2.5" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Group_3071" data-name="Group 3071" transform="translate(3.795 4.075)">
+          <g id="Group_3069" data-name="Group 3069" transform="translate(0 4.721)">
+            <path id="Path_1881" data-name="Path 1881" d="M227.841,234.473a3.574,3.574,0,0,0,6.774,0" transform="translate(-227.371 -234.472)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <path id="Path_1882" data-name="Path 1882" d="M227.43,236.127l.47-1.655,1.617.581" transform="translate(-227.43 -234.472)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Group_3070" data-name="Group 3070" transform="translate(0.47)">
+            <path id="Path_1883" data-name="Path 1883" d="M234.615,232.774a3.574,3.574,0,0,0-6.774,0" transform="translate(-227.841 -230.341)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <path id="Path_1884" data-name="Path 1884" d="M234.44,231.021l-.47,1.655-1.617-.581" transform="translate(-227.197 -230.244)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_3075" data-name="Group 3075" transform="translate(10.473 5.963)">
+        <g id="Group_3074" data-name="Group 3074">
+          <path id="Path_1885" data-name="Path 1885" d="M219.373,229.386a3.854,3.854,0,1,1-6.089-3.135V212.619a2.235,2.235,0,1,1,4.471,0v13.632A3.84,3.84,0,0,1,219.373,229.386Z" transform="translate(-211.664 -210.384)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <g id="Group_3073" data-name="Group 3073" transform="translate(10.408 2.857)">
+            <line id="Line_408" data-name="Line 408" x2="3.429" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+            <line id="Line_409" data-name="Line 409" x2="2.286" transform="translate(0 2.857)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <line id="Line_410" data-name="Line 410" x2="3.429" transform="translate(0 5.714)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <line id="Line_411" data-name="Line 411" x2="2.286" transform="translate(0 8.571)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <line id="Line_412" data-name="Line 412" x2="3.429" transform="translate(0 11.429)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <line id="Line_413" data-name="Line 413" x2="2.286" transform="translate(0 14.286)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <line id="Line_414" data-name="Line 414" x2="3.429" transform="translate(0 17.143)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <circle id="Ellipse_247" data-name="Ellipse 247" cx="1.714" cy="1.714" r="1.714" transform="translate(2.14 17.266)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

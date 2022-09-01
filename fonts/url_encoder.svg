@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <g id="URL_Encoder_Decoder" data-name="URL Encoder Decoder" transform="translate(-202 -204.667)">
+    <g id="Group_2337" data-name="Group 2337" transform="translate(202.5 205.167)">
+      <rect id="Rectangle_519" data-name="Rectangle 519" width="40" height="40" rx="2.5" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <g id="Group_2336" data-name="Group 2336" transform="translate(7.114 9.901)">
+        <g id="Group_2334" data-name="Group 2334" transform="translate(8.366)">
+          <path id="Path_1568" data-name="Path 1568" d="M225.95,214.046l5.916,5.916-5.916,5.916" transform="translate(-214.46 -214.046)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <line id="Line_195" data-name="Line 195" y2="3.811" transform="translate(11.49)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <line id="Line_196" data-name="Line 196" y2="3.811" transform="translate(11.49 8.02)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <path id="Path_1569" data-name="Path 1569" d="M227.632,217.3h-11.49v4.209h11.49" transform="translate(-216.142 -213.488)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Group_2335" data-name="Group 2335" transform="translate(0 8.366)">
+          <path id="Path_1570" data-name="Path 1570" d="M214.916,233.019,209,227.1l5.916-5.916" transform="translate(-209 -221.188)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <line id="Line_197" data-name="Line 197" y1="3.811" transform="translate(5.916 8.02)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <line id="Line_198" data-name="Line 198" y1="3.811" transform="translate(5.916)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <path id="Path_1571" data-name="Path 1571" d="M214.05,228.65h11.49v-4.209H214.05" transform="translate(-208.134 -220.63)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

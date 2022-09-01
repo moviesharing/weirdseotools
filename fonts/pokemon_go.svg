@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <g id="Pokemon_Go_Server_Status_Finder" data-name="Pokemon Go Server Status Finder" transform="translate(-202 -459.333)">
+    <g id="Group_2637" data-name="Group 2637" transform="translate(202.5 459.833)">
+      <rect id="Rectangle_593" data-name="Rectangle 593" width="40" height="40" rx="2.5" transform="translate(0 0)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+      <g id="Group_2636" data-name="Group 2636" transform="translate(7.427 7.429)">
+        <g id="Group_2635" data-name="Group 2635" transform="translate(0.004)">
+          <circle id="Ellipse_177" data-name="Ellipse 177" cx="12.571" cy="12.571" r="12.571" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+          <circle id="Ellipse_178" data-name="Ellipse 178" cx="6.857" cy="6.857" r="6.857" transform="translate(5.714 5.714)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+          <circle id="Ellipse_179" data-name="Ellipse 179" cx="3.429" cy="3.429" r="3.429" transform="translate(9.143 9.143)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+        </g>
+        <line id="Line_291" data-name="Line 291" x1="5.714" transform="translate(19.428 12.575)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_292" data-name="Line 292" x1="5.714" transform="translate(0 12.575)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

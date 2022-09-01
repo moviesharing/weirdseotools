@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <g id="Video_to_Gif" data-name="Video to Gif" transform="translate(-34 -119.333)">
+    <g id="Group_2044" data-name="Group 2044" transform="translate(34.5 119.833)">
+      <g id="Group_2042" data-name="Group 2042">
+        <g id="Group_2041" data-name="Group 2041">
+          <g id="Group_2039" data-name="Group 2039">
+            <rect id="Rectangle_410" data-name="Rectangle 410" width="26.681" height="26.681" rx="2.5" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+            <rect id="Rectangle_411" data-name="Rectangle 411" width="26.681" height="26.681" rx="2.5" transform="translate(13.319 13.319)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+          </g>
+          <g id="Group_2040" data-name="Group 2040" transform="translate(4.42 4.42)">
+            <line id="Line_84" data-name="Line 84" x2="7.098" y2="7.098" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+            <path id="Path_1488" data-name="Path 1488" d="M45.022,126.78v3.575H41.447" transform="translate(-37.924 -123.257)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_2043" data-name="Group 2043" transform="translate(19.575 23.361)">
+        <path id="Path_1489" data-name="Path 1489" d="M56.944,143.148H55.031a.531.531,0,0,0,0,1.061H56.4v1.138a2.6,2.6,0,0,1-1.488.478,2.079,2.079,0,0,1-2.125-2.261,2.1,2.1,0,0,1,2.032-2.211,2.312,2.312,0,0,1,1.512.5.57.57,0,0,0,.349.13.564.564,0,0,0,.56-.568.584.584,0,0,0-.23-.456,3.4,3.4,0,0,0-2.166-.682,3.226,3.226,0,0,0-3.212,3.3v.018a3.131,3.131,0,0,0,3.254,3.287,3.851,3.851,0,0,0,2.285-.76.708.708,0,0,0,.333-.6v-1.81A.566.566,0,0,0,56.944,143.148Z" transform="translate(-51.633 -140.276)" fill="#1e70b9"/>
+        <path id="Path_1490" data-name="Path 1490" d="M58.306,140.329a.572.572,0,0,0-.561.567v5.355a.565.565,0,1,0,1.13,0V140.9A.569.569,0,0,0,58.306,140.329Z" transform="translate(-50.756 -140.268)" fill="#1e70b9"/>
+        <path id="Path_1491" data-name="Path 1491" d="M64.1,141.443a.539.539,0,0,0,0-1.077H60.417a.571.571,0,0,0-.559.568v5.311a.564.564,0,1,0,1.129,0v-2.066h2.728a.535.535,0,1,0,0-1.069H60.987v-1.667Z" transform="translate(-50.453 -140.263)" fill="#1e70b9"/>
+      </g>
+    </g>
+  </g>
+</svg>

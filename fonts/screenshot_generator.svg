@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="33" viewBox="0 0 41 33">
+  <g id="Website_Screenshot_Generator" data-name="Website Screenshot Generator" transform="translate(-202 -463.233)">
+    <g id="Group_2390" data-name="Group 2390" transform="translate(202.5 463.733)">
+      <g id="Group_2389" data-name="Group 2389">
+        <g id="Group_2387" data-name="Group 2387">
+          <rect id="Rectangle_543" data-name="Rectangle 543" width="40" height="32" rx="2" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Group_2388" data-name="Group 2388" transform="translate(2.343 1.943)">
+          <circle id="Ellipse_134" data-name="Ellipse 134" cx="0.825" cy="0.825" r="0.825" fill="#1e70b9"/>
+          <circle id="Ellipse_135" data-name="Ellipse 135" cx="0.825" cy="0.825" r="0.825" transform="translate(3.298)" fill="#1e70b9"/>
+          <circle id="Ellipse_136" data-name="Ellipse 136" cx="0.825" cy="0.825" r="0.825" transform="translate(6.596)" fill="#1e70b9"/>
+        </g>
+        <line id="Line_215" data-name="Line 215" x2="40" transform="translate(0 5.935)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Group_2391" data-name="Group 2391" transform="translate(213.129 475.872)">
+      <rect id="Rectangle_544" data-name="Rectangle 544" width="18.743" height="14.057" rx="1.5" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <circle id="Ellipse_137" data-name="Ellipse 137" cx="3.514" cy="3.514" r="3.514" transform="translate(5.857 3.514)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+      <circle id="Ellipse_138" data-name="Ellipse 138" cx="0.984" cy="0.984" r="0.984" transform="translate(14.633 2.811)" fill="#1e70b9"/>
+    </g>
+  </g>
+</svg>

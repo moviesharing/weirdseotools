@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <g id="word_combiner" data-name="word combiner" transform="translate(-286 -119.333)">
+    <g id="Group_1995" data-name="Group 1995" transform="translate(286.5 119.833)">
+      <g id="Group_1992" data-name="Group 1992">
+        <rect id="Rectangle_383" data-name="Rectangle 383" width="26.871" height="26.871" rx="2.5" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+        <rect id="Rectangle_384" data-name="Rectangle 384" width="26.871" height="26.871" rx="2.5" transform="translate(13.129 13.129)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <g id="Group_1993" data-name="Group 1993" transform="translate(4.452 4.452)">
+        <line id="Line_67" data-name="Line 67" x2="7.149" y2="7.149" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_1469" data-name="Path 1469" d="M297.047,126.78v3.6h-3.6" transform="translate(-289.899 -123.232)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_1994" data-name="Group 1994" transform="translate(23.081 23.081)">
+        <line id="Line_68" data-name="Line 68" x1="7.149" y1="7.149" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_1470" data-name="Path 1470" d="M306.729,143.663v-3.6h3.6" transform="translate(-306.729 -140.063)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

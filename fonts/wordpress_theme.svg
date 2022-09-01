@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="33" viewBox="0 0 41 33">
+  <g id="Wordpress_Theme_Detector" data-name="Wordpress Theme Detector" transform="translate(-285.705 -377.664)">
+    <g id="Group_2381" data-name="Group 2381" transform="translate(286.205 378.164)">
+      <g id="Group_2376" data-name="Group 2376" transform="translate(0)">
+        <g id="Group_2375" data-name="Group 2375">
+          <g id="Group_2373" data-name="Group 2373">
+            <rect id="Rectangle_539" data-name="Rectangle 539" width="40" height="32" rx="2" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Group_2374" data-name="Group 2374" transform="translate(2.604 2.145)">
+            <circle id="Ellipse_130" data-name="Ellipse 130" cx="0.813" cy="0.813" r="0.813" fill="#1e70b9"/>
+            <circle id="Ellipse_131" data-name="Ellipse 131" cx="0.813" cy="0.813" r="0.813" transform="translate(3.251)" fill="#1e70b9"/>
+            <circle id="Ellipse_132" data-name="Ellipse 132" cx="0.813" cy="0.813" r="0.813" transform="translate(6.501)" fill="#1e70b9"/>
+          </g>
+          <line id="Line_210" data-name="Line 210" x2="39.41" transform="translate(0.295 6.079)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_2380" data-name="Group 2380" transform="translate(3.759 9.543)">
+        <rect id="Rectangle_540" data-name="Rectangle 540" width="10.3" height="19.157" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <rect id="Rectangle_541" data-name="Rectangle 541" width="19.628" height="9.993" transform="translate(12.855)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+        <g id="Group_2379" data-name="Group 2379" transform="translate(12.855 14.612)">
+          <g id="Group_2378" data-name="Group 2378">
+            <g id="Group_2377" data-name="Group 2377">
+              <line id="Line_211" data-name="Line 211" x2="19.628" transform="translate(0 4.33)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+              <line id="Line_212" data-name="Line 212" x2="12.202" transform="translate(7.426)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+              <line id="Line_213" data-name="Line 213" x2="3.291" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

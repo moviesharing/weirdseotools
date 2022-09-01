@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="41" viewBox="0 0 31 41">
+  <g id="Uppercase_to_lowercase" data-name="Uppercase to lowercase" transform="translate(-206.375 -119.333)">
+    <g id="Group_1985" data-name="Group 1985" transform="translate(206.875 119.833)">
+      <g id="Group_1984" data-name="Group 1984">
+        <g id="Group_1983" data-name="Group 1983">
+          <path id="Path_1465" data-name="Path 1465" d="M234.018,159.833H209.732a2.857,2.857,0,0,1-2.857-2.857V122.69a2.857,2.857,0,0,1,2.857-2.857h16.793a2.854,2.854,0,0,1,2.019.838l7.494,7.493a2.857,2.857,0,0,1,.837,2.021v26.792A2.857,2.857,0,0,1,234.018,159.833Z" transform="translate(-206.875 -119.833)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+          <path id="Path_1466" data-name="Path 1466" d="M223.49,123.219v7.143h7.143" transform="translate(-204.501 -119.349)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <g id="Group_1982" data-name="Group 1982" transform="translate(5.56 31.143)">
+            <line id="Line_64" data-name="Line 64" x2="18.88" transform="translate(0 4.286)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Line_65" data-name="Line 65" x2="11.737" transform="translate(7.143)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Line_66" data-name="Line 66" x2="3.165" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1990" data-name="Group 1990" transform="translate(215.674 136.115)">
+      <g id="Group_1987" data-name="Group 1987">
+        <g id="Group_1986" data-name="Group 1986">
+          <path id="Path_1467" data-name="Path 1467" d="M221.061,134.08h-5.9a.59.59,0,0,0-.59.59v1.178a.59.59,0,1,0,1.179,0v-.59h1.769v7.077h-.59a.59.59,0,0,0,0,1.179h2.359a.59.59,0,0,0,0-1.179h-.59v-7.077h1.769v.59a.59.59,0,0,0,1.179,0V134.67A.59.59,0,0,0,221.061,134.08Z" transform="translate(-214.574 -134.08)" fill="#1e70b9"/>
+        </g>
+      </g>
+      <g id="Group_1989" data-name="Group 1989" transform="translate(5.897 3.537)">
+        <g id="Group_1988" data-name="Group 1988">
+          <path id="Path_1468" data-name="Path 1468" d="M223.862,137.175h-3.538a.59.59,0,0,0-.59.59v.59a.59.59,0,0,0,1.179,0h.59v3.538a.59.59,0,0,0,0,1.179h1.179a.59.59,0,0,0,0-1.179v-3.538h.59a.59.59,0,1,0,1.179,0v-.59A.59.59,0,0,0,223.862,137.175Z" transform="translate(-219.734 -137.175)" fill="#1e70b9"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

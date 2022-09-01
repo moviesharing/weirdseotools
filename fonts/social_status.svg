@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <g id="Check_Social_Status" data-name="Check Social Status" transform="translate(-286 -544.667)">
+    <g id="Group_2668" data-name="Group 2668" transform="translate(286.5 545.167)">
+      <rect id="Rectangle_600" data-name="Rectangle 600" width="40" height="40" rx="2.5" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+      <g id="Group_2667" data-name="Group 2667" transform="translate(4.686 8.668)">
+        <g id="Group_2659" data-name="Group 2659" transform="translate(0 5.008)">
+          <circle id="Ellipse_190" data-name="Ellipse 190" cx="3.409" cy="3.409" r="3.409" transform="translate(1.612)" fill="#fff" stroke="#1e70b9" stroke-linejoin="round" stroke-width="1"/>
+          <path id="Rectangle_601" data-name="Rectangle 601" d="M4.287,0h1.47a4.287,4.287,0,0,1,4.287,4.287V6.933a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4.287A4.287,4.287,0,0,1,4.287,0Z" transform="translate(0 6.819)" fill="#fff" stroke="#1e70b9" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Group_2666" data-name="Group 2666" transform="translate(13.979)">
+          <g id="Group_2662" data-name="Group 2662">
+            <rect id="Rectangle_602" data-name="Rectangle 602" width="16.65" height="10.043" fill="#fff" stroke="#1e70b9" stroke-linejoin="round" stroke-width="1"/>
+            <g id="Group_2660" data-name="Group 2660" transform="translate(2.524 2.641)">
+              <circle id="Ellipse_191" data-name="Ellipse 191" cx="0.586" cy="0.586" r="0.586" fill="#1e70b9"/>
+              <line id="Line_304" data-name="Line 304" x2="8.563" transform="translate(2.678 0.586)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Group_2661" data-name="Group 2661" transform="translate(2.524 6.231)">
+              <circle id="Ellipse_192" data-name="Ellipse 192" cx="0.586" cy="0.586" r="0.586" fill="#1e70b9"/>
+              <line id="Line_305" data-name="Line 305" x2="8.563" transform="translate(2.678 0.586)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Group_2665" data-name="Group 2665" transform="translate(0 13.725)">
+            <rect id="Rectangle_603" data-name="Rectangle 603" width="16.65" height="10.043" fill="#fff" stroke="#1e70b9" stroke-linejoin="round" stroke-width="1"/>
+            <g id="Group_2663" data-name="Group 2663" transform="translate(2.524 2.641)">
+              <circle id="Ellipse_193" data-name="Ellipse 193" cx="0.586" cy="0.586" r="0.586" fill="#1e70b9"/>
+              <line id="Line_306" data-name="Line 306" x2="8.563" transform="translate(2.678 0.586)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Group_2664" data-name="Group 2664" transform="translate(2.524 6.231)">
+              <circle id="Ellipse_194" data-name="Ellipse 194" cx="0.586" cy="0.586" r="0.586" fill="#1e70b9"/>
+              <line id="Line_307" data-name="Line 307" x2="8.563" transform="translate(2.678 0.586)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

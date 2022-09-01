@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="41" viewBox="0 0 31 41">
+  <g id="URL_Shortener" data-name="URL Shortener" transform="translate(-290.375 -714)">
+    <g id="Group_2466" data-name="Group 2466" transform="translate(290.875 714.5)">
+      <path id="Path_1638" data-name="Path 1638" d="M318.018,754.5H293.732a2.857,2.857,0,0,1-2.857-2.857V717.357a2.857,2.857,0,0,1,2.857-2.857h16.793a2.852,2.852,0,0,1,2.019.837l7.494,7.494a2.853,2.853,0,0,1,.837,2.019v26.793A2.857,2.857,0,0,1,318.018,754.5Z" transform="translate(-290.875 -714.5)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_1639" data-name="Path 1639" d="M307.49,717.885v7.143h7.143" transform="translate(-288.501 -714.016)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <g id="Group_2465" data-name="Group 2465" transform="translate(5.56 31.143)">
+        <line id="Line_238" data-name="Line 238" x2="18.88" transform="translate(0 4.286)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_239" data-name="Line 239" x2="11.737" transform="translate(7.143)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_240" data-name="Line 240" x2="3.165" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+    <rect id="Rectangle_559" data-name="Rectangle 559" width="18.88" height="7.116" transform="translate(296.435 733.423)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

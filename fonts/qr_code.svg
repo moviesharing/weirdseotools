@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <g id="QR_Code_Generator" data-name="QR Code Generator" transform="translate(-202 -290)">
+    <g id="Group_2354" data-name="Group 2354" transform="translate(202.5 290.5)">
+      <g id="Group_2353" data-name="Group 2353" transform="translate(21.829 21.829)">
+        <g id="Group_2352" data-name="Group 2352">
+          <rect id="Rectangle_529" data-name="Rectangle 529" width="3.624" height="3.624" transform="translate(7.248 14.496)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+          <rect id="Rectangle_530" data-name="Rectangle 530" width="3.626" height="3.624" transform="translate(14.494 14.496)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+          <path id="Path_1577" data-name="Path 1577" d="M236.484,313.611H232.86v-3.623H221.988v18.118h3.623V317.236h3.624v3.624h10.871V309.988h-3.622Z" transform="translate(-221.988 -309.988)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <rect id="Rectangle_531" data-name="Rectangle 531" width="18.222" height="18.222" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect id="Rectangle_532" data-name="Rectangle 532" width="9.111" height="9.111" transform="translate(4.556 4.556)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+      <rect id="Rectangle_533" data-name="Rectangle 533" width="18.222" height="18.222" transform="translate(21.778)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+      <rect id="Rectangle_534" data-name="Rectangle 534" width="9.111" height="9.111" transform="translate(26.333 4.556)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+      <rect id="Rectangle_535" data-name="Rectangle 535" width="18.222" height="18.222" transform="translate(0 21.778)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+      <rect id="Rectangle_536" data-name="Rectangle 536" width="9.111" height="9.111" transform="translate(4.556 26.333)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+    </g>
+  </g>
+</svg>

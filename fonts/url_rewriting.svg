@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="41" viewBox="0 0 31 41">
+  <g id="URL_Rewriting_Tool" data-name="URL Rewriting Tool" transform="translate(-38.375 -204.667)">
+    <g id="Group_2329" data-name="Group 2329" transform="translate(38.875 205.167)">
+      <g id="Group_2325" data-name="Group 2325">
+        <g id="Group_2324" data-name="Group 2324">
+          <path id="Path_1564" data-name="Path 1564" d="M66.018,245.167H41.732a2.857,2.857,0,0,1-2.857-2.857V208.024a2.857,2.857,0,0,1,2.857-2.857H58.525a2.852,2.852,0,0,1,2.019.837l7.494,7.493a2.857,2.857,0,0,1,.837,2.021V242.31A2.857,2.857,0,0,1,66.018,245.167Z" transform="translate(-38.875 -205.167)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+          <path id="Path_1565" data-name="Path 1565" d="M55.49,208.552v7.163h7.163" transform="translate(-36.532 -204.673)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <g id="Group_2323" data-name="Group 2323" transform="translate(5.534 31.118)">
+            <line id="Line_189" data-name="Line 189" x2="18.932" transform="translate(0 4.298)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Line_190" data-name="Line 190" x2="11.77" transform="translate(7.163)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Line_191" data-name="Line 191" x2="3.174" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_2328" data-name="Group 2328" transform="translate(8.383 14.135)">
+        <g id="Group_2327" data-name="Group 2327" transform="translate(0)">
+          <g id="Group_2326" data-name="Group 2326">
+            <rect id="Rectangle_516" data-name="Rectangle 516" width="6.364" height="4.281" rx="1.868" transform="translate(5.706 4.5) rotate(-45)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+            <rect id="Rectangle_517" data-name="Rectangle 517" width="6.364" height="4.281" rx="1.868" transform="translate(0 10.206) rotate(-45)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+          </g>
+          <line id="Line_192" data-name="Line 192" y1="2.926" x2="2.926" transform="translate(5.154 5.269)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

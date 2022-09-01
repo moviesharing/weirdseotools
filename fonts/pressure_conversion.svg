@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <g id="Pressure_Conversion" data-name="Pressure Conversion" transform="translate(-34 -290)">
+    <g id="Group_3098" data-name="Group 3098" transform="translate(34.5 290.5)">
+      <g id="Group_3092" data-name="Group 3092">
+        <g id="Group_3090" data-name="Group 3090">
+          <rect id="Rectangle_718" data-name="Rectangle 718" width="34.783" height="34.783" rx="2.5" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Group_3091" data-name="Group 3091" transform="translate(7.219 7.219)">
+          <circle id="Ellipse_249" data-name="Ellipse 249" cx="10.173" cy="10.173" r="10.173" transform="translate(0)" fill="#fff" stroke="#1e70b9" stroke-linejoin="round" stroke-width="1"/>
+          <line id="Line_415" data-name="Line 415" y2="1.118" transform="translate(10.173)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <line id="Line_416" data-name="Line 416" x2="0.559" y2="0.968" transform="translate(4.646 1.655)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <line id="Line_417" data-name="Line 417" x2="0.968" y2="0.559" transform="translate(1.275 5.293)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <line id="Line_418" data-name="Line 418" x2="1.118" transform="translate(0 10.173)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <line id="Line_419" data-name="Line 419" x1="1.118" transform="translate(19.228 10.173)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <line id="Line_420" data-name="Line 420" x1="0.968" y2="0.559" transform="translate(18.259 5.572)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <line id="Line_421" data-name="Line 421" x1="0.559" y2="0.968" transform="translate(15.156 1.64)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <path id="Path_1891" data-name="Path 1891" d="M53.433,303.422,48.9,305.294a1.753,1.753,0,0,0-.633,2.8h0a1.753,1.753,0,0,0,2.846-.345Z" transform="translate(-39.817 -295.873)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_3097" data-name="Group 3097" transform="translate(24.696 24.696)">
+        <g id="Group_3093" data-name="Group 3093">
+          <rect id="Rectangle_719" data-name="Rectangle 719" width="15.304" height="15.304" rx="2.5" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Group_3096" data-name="Group 3096" transform="translate(3.795 4.076)">
+          <g id="Group_3094" data-name="Group 3094" transform="translate(0 4.721)">
+            <path id="Path_1892" data-name="Path 1892" d="M59.841,319.806a3.574,3.574,0,0,0,6.774,0" transform="translate(-59.371 -319.805)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <path id="Path_1893" data-name="Path 1893" d="M59.429,321.46l.47-1.655,1.617.581" transform="translate(-59.429 -319.805)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Group_3095" data-name="Group 3095" transform="translate(0.47)">
+            <path id="Path_1894" data-name="Path 1894" d="M66.615,318.107a3.574,3.574,0,0,0-6.774,0" transform="translate(-59.841 -315.675)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <path id="Path_1895" data-name="Path 1895" d="M66.44,316.355l-.47,1.655-1.617-.581" transform="translate(-59.196 -315.578)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
