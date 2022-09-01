@@ -1,0 +1,33 @@
+.main_area_report{width: 100%;}
+.error_pages, .err_page_pn{padding: 0px !important;}
+.error_pages .err_page_pn{margin: 0px !important;}
+.page_404{
+    background-image: url(../fonts/404light_bg.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100vh;
+    background-position: bottom;
+}
+.page_404_img{
+    background-image: url(../fonts/404-light-theme.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 94%;
+    height: 235px;
+    background-position: center;
+}
+.page_404 .e_page{font-size: 40px;color: #D1D7DC;}
+.page_404 .fs26{font-size: 26px;}
+.page_404 .fs20{font-size: 20px;line-height: 27px;}
+.page_404 .g_btn{
+    background-image: url(../fonts/go_back_btn.svg);
+    background-repeat: no-repeat;
+    background-position: 20px;
+    font-size: 16px;
+    background-color:#343434;
+    width: 180px;
+    height: 40px;
+    text-indent: 48px;
+}
+@media only screen and (max-width: 767px) {
+}
