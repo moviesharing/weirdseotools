@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <g id="Hex_To_Binary" data-name="Hex To Binary" transform="translate(-286 -34)">
+    <g id="Group_3124" data-name="Group 3124" transform="translate(286.5 34.5)">
+      <g id="Group_3121" data-name="Group 3121">
+        <rect id="Rectangle_726" data-name="Rectangle 726" width="26.667" height="26.667" rx="2.5" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+        <g id="Group_3120" data-name="Group 3120" transform="translate(4.418 4.418)">
+          <line id="Line_425" data-name="Line 425" x2="7.094" y2="7.094" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+          <path id="Path_1908" data-name="Path 1908" d="M297.02,41.447V45.02h-3.573" transform="translate(-289.926 -37.926)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_3123" data-name="Group 3123" transform="translate(13.333 13.333)">
+        <rect id="Rectangle_727" data-name="Rectangle 727" width="26.667" height="26.667" rx="2.5" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+        <g id="Group_3122" data-name="Group 3122" transform="translate(6.048 10.114)">
+          <path id="Path_1909" data-name="Path 1909" d="M306.142,55.016c-1.529,0-2.683,1.384-2.683,3.221v.016c0,1.856,1.122,3.2,2.666,3.2,1.525,0,2.675-1.391,2.675-3.235S307.683,55.016,306.142,55.016Zm1.523,3.237c0,1.069-.523,2.152-1.523,2.152s-1.547-1.126-1.547-2.185.526-2.151,1.53-2.151,1.541,1.117,1.541,2.168Z" transform="translate(-303.459 -55.016)" fill="#1e70b9"/>
+          <path id="Path_1910" data-name="Path 1910" d="M310.406,55.045a1.445,1.445,0,0,0-.431.087l-.952.331a.519.519,0,0,0-.384.5.5.5,0,0,0,.209.4.562.562,0,0,0,.512.071l.51-.166v4.568a.563.563,0,0,0,.551.559.556.556,0,0,0,.552-.559V55.6A.548.548,0,0,0,310.406,55.045Z" transform="translate(-302.719 -55.012)" fill="#1e70b9"/>
+          <path id="Path_1911" data-name="Path 1911" d="M314.216,55.016c-1.529,0-2.683,1.384-2.683,3.221v.016c0,1.856,1.122,3.2,2.666,3.2,1.525,0,2.675-1.391,2.675-3.235S315.757,55.016,314.216,55.016Zm1.523,3.237c0,1.069-.523,2.152-1.523,2.152s-1.547-1.126-1.547-2.185.526-2.151,1.53-2.151,1.541,1.117,1.541,2.168Z" transform="translate(-302.306 -55.016)" fill="#1e70b9"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="29" viewBox="0 0 35 29">
+  <g id="Online_Text_Editor" data-name="Online Text Editor" transform="translate(-14.5 -17.5)">
+    <g id="Group_1288" data-name="Group 1288" transform="translate(15 18)">
+      <g id="Group_1228" data-name="Group 1228">
+        <rect id="Rectangle_534" data-name="Rectangle 534" width="34" height="28" rx="2" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_1229" data-name="Group 1229" transform="translate(2 2)">
+        <circle id="Ellipse_186" data-name="Ellipse 186" cx="0.704" cy="0.704" r="0.704" fill="#1e70b9"/>
+        <circle id="Ellipse_187" data-name="Ellipse 187" cx="0.704" cy="0.704" r="0.704" transform="translate(2.815)" fill="#1e70b9"/>
+        <circle id="Ellipse_188" data-name="Ellipse 188" cx="0.704" cy="0.704" r="0.704" transform="translate(5.631)" fill="#1e70b9"/>
+      </g>
+      <line id="Line_399" data-name="Line 399" x2="34" transform="translate(0 5.408)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <g id="Group_1232" data-name="Group 1232" transform="translate(9.24 24)">
+        <g id="Group_1231" data-name="Group 1231">
+          <line id="Line_400" data-name="Line 400" x2="10.27" transform="translate(5.25)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+          <line id="Line_401" data-name="Line 401" x2="2.77" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(25.398 26.019)">
+      <path id="Rectangle_3" data-name="Rectangle 3" d="M1.5,0H3.094a1.5,1.5,0,0,1,1.5,1.5V12.4a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1.5A1.5,1.5,0,0,1,1.5,0Z" transform="translate(9.955 0) rotate(45)" fill="#fff" stroke="#1e70b9" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_8" data-name="Line 8" x2="3.248" y2="3.248" transform="translate(7.861 2.094)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_5" data-name="Path 5" d="M131.707,54.707l-1.182,4.427,4.433-1.184Z" transform="translate(-130.524 -45.935)" fill="#fff" stroke="#1e70b9" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

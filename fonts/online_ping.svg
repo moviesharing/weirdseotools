@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="33" viewBox="0 0 41 33">
+  <g id="Online_Ping_Website_Tool" data-name="Online Ping Website Tool" transform="translate(-202 -37.5)">
+    <g id="Group_2290" data-name="Group 2290" transform="translate(202.5 38)">
+      <g id="Group_2288" data-name="Group 2288">
+        <g id="Group_2287" data-name="Group 2287">
+          <g id="Group_2285" data-name="Group 2285">
+            <rect id="Rectangle_506" data-name="Rectangle 506" width="40" height="32" rx="2" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Group_2286" data-name="Group 2286" transform="translate(2.286 2.286)">
+            <circle id="Ellipse_108" data-name="Ellipse 108" cx="0.804" cy="0.804" r="0.804" fill="#1e70b9"/>
+            <circle id="Ellipse_109" data-name="Ellipse 109" cx="0.804" cy="0.804" r="0.804" transform="translate(3.218)" fill="#1e70b9"/>
+            <circle id="Ellipse_110" data-name="Ellipse 110" cx="0.804" cy="0.804" r="0.804" transform="translate(6.435)" fill="#1e70b9"/>
+          </g>
+          <line id="Line_179" data-name="Line 179" x2="40" transform="translate(0 6.18)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_2289" data-name="Group 2289" transform="translate(10.447 15.976)">
+        <path id="Path_1550" data-name="Path 1550" d="M213.966,52.061h-1.76a.569.569,0,0,0-.565.574v4.933a.568.568,0,1,0,1.136,0V56.151h1.086a2.151,2.151,0,0,0,2.426-2.08A2.045,2.045,0,0,0,213.966,52.061Zm1.179,2.049c0,.583-.495.959-1.259.959h-1.109V53.152h1.141C214.376,53.152,215.145,53.277,215.145,54.11Z" transform="translate(-211.641 -51.967)" fill="#1e70b9"/>
+        <path id="Path_1551" data-name="Path 1551" d="M216.87,52.027a.569.569,0,0,0-.565.574v4.971a.568.568,0,1,0,1.136,0V52.6A.573.573,0,0,0,216.87,52.027Z" transform="translate(-210.975 -51.972)" fill="#1e70b9"/>
+        <path id="Path_1552" data-name="Path 1552" d="M222.9,52.027a.565.565,0,0,0-.563.565v3.423l-2.9-3.691a.636.636,0,0,0-.518-.28h-.087a.572.572,0,0,0-.565.565V57.58a.561.561,0,1,0,1.121,0V54.049l2.974,3.8a.688.688,0,0,0,.55.28.533.533,0,0,0,.542-.55V52.592A.562.562,0,0,0,222.9,52.027Z" transform="translate(-210.694 -51.972)" fill="#1e70b9"/>
+        <path id="Path_1553" data-name="Path 1553" d="M228.488,54.646h-1.776a.538.538,0,0,0,0,1.075h1.227v.987a2.373,2.373,0,0,1-1.338.424,1.89,1.89,0,0,1-1.93-2.056,1.911,1.911,0,0,1,1.845-2.008,2.107,2.107,0,0,1,1.377.454.566.566,0,1,0,.685-.9,3.2,3.2,0,0,0-2.039-.642,3.042,3.042,0,0,0-3.026,3.13,2.948,2.948,0,0,0,3.065,3.1,3.63,3.63,0,0,0,2.149-.714.7.7,0,0,0,.326-.593V55.219A.568.568,0,0,0,228.488,54.646Z" transform="translate(-209.945 -51.979)" fill="#1e70b9"/>
+      </g>
+    </g>
+  </g>
+</svg>

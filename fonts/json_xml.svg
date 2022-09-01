@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <g id="JSON_To_XML" data-name="JSON To XML" transform="translate(-34 -119.333)">
+    <g id="Group_2954" data-name="Group 2954" transform="translate(34.5 119.833)">
+      <g id="Group_2951" data-name="Group 2951">
+        <g id="Group_2950" data-name="Group 2950">
+          <g id="Group_2949" data-name="Group 2949">
+            <g id="Group_2948" data-name="Group 2948">
+              <g id="Group_2946" data-name="Group 2946">
+                <rect id="Rectangle_682" data-name="Rectangle 682" width="26.667" height="26.667" rx="2.5" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+                <rect id="Rectangle_683" data-name="Rectangle 683" width="26.667" height="26.667" rx="2.5" transform="translate(13.333 13.333)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+              </g>
+              <g id="Group_2947" data-name="Group 2947" transform="translate(4.418 4.418)">
+                <line id="Line_383" data-name="Line 383" x2="7.094" y2="7.094" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+                <path id="Path_1796" data-name="Path 1796" d="M45.02,126.78v3.573H41.447" transform="translate(-37.926 -123.259)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_2953" data-name="Group 2953" transform="translate(17.665 20.952)">
+        <g id="Group_2952" data-name="Group 2952">
+          <path id="Path_1797" data-name="Path 1797" d="M55.358,139.229l-5.4,4.5,5.4,4.5" transform="translate(-49.957 -138.015)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <path id="Path_1798" data-name="Path 1798" d="M60.984,148.23l5.4-4.5-5.4-4.5" transform="translate(-48.382 -138.015)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <line id="Line_384" data-name="Line 384" x1="3.41" y2="11.429" transform="translate(7.296)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

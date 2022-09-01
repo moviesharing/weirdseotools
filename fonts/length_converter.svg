@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <g id="Length_Converter" data-name="Length Converter" transform="translate(-118 -119.333)">
+    <g id="Group_3018" data-name="Group 3018" transform="translate(118.5 119.833)">
+      <g id="Group_3016" data-name="Group 3016">
+        <g id="Group_3015" data-name="Group 3015">
+          <g id="Group_3009" data-name="Group 3009">
+            <rect id="Rectangle_696" data-name="Rectangle 696" width="34.783" height="34.783" rx="2.5" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Group_3014" data-name="Group 3014" transform="translate(24.696 24.696)">
+            <g id="Group_3010" data-name="Group 3010">
+              <rect id="Rectangle_697" data-name="Rectangle 697" width="15.304" height="15.304" rx="2.5" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Group_3013" data-name="Group 3013" transform="translate(3.795 4.075)">
+              <g id="Group_3011" data-name="Group 3011" transform="translate(0 4.721)">
+                <path id="Path_1832" data-name="Path 1832" d="M143.841,149.139a3.574,3.574,0,0,0,6.774,0" transform="translate(-143.371 -149.139)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+                <path id="Path_1833" data-name="Path 1833" d="M143.429,150.794l.47-1.655,1.617.581" transform="translate(-143.429 -149.139)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+              </g>
+              <g id="Group_3012" data-name="Group 3012" transform="translate(0.47)">
+                <path id="Path_1834" data-name="Path 1834" d="M150.615,147.44a3.574,3.574,0,0,0-6.774,0" transform="translate(-143.841 -145.008)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+                <path id="Path_1835" data-name="Path 1835" d="M150.44,145.688l-.47,1.655-1.617-.581" transform="translate(-143.197 -144.911)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_3017" data-name="Group 3017" transform="translate(7.29 7.29)">
+        <rect id="Rectangle_698" data-name="Rectangle 698" width="5.714" height="22.857" transform="translate(16.162) rotate(45)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+        <line id="Line_393" data-name="Line 393" x2="2.424" y2="2.424" transform="translate(15.758 3.637)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_394" data-name="Line 394" x2="1.616" y2="1.616" transform="translate(14.546 6.465)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_395" data-name="Line 395" x2="2.424" y2="2.424" transform="translate(11.718 7.677)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_396" data-name="Line 396" x2="1.616" y2="1.616" transform="translate(10.506 10.506)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_397" data-name="Line 397" x2="2.424" y2="2.424" transform="translate(7.677 11.718)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_398" data-name="Line 398" x2="1.616" y2="1.616" transform="translate(6.465 14.546)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_399" data-name="Line 399" x2="2.424" y2="2.424" transform="translate(3.637 15.758)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

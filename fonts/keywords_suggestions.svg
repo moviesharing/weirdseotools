@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="33" viewBox="0 0 41 33">
+  <g id="Keywords_Suggestions_Tool" data-name="Keywords Suggestions Tool" transform="translate(-202 -37.5)">
+    <g id="Group_2101" data-name="Group 2101" transform="translate(202.5 38)">
+      <g id="Group_2095" data-name="Group 2095">
+        <rect id="Rectangle_448" data-name="Rectangle 448" width="40" height="32" rx="2" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_2096" data-name="Group 2096" transform="translate(2.286 2.286)">
+        <circle id="Ellipse_76" data-name="Ellipse 76" cx="0.804" cy="0.804" r="0.804" fill="#1e70b9"/>
+        <circle id="Ellipse_77" data-name="Ellipse 77" cx="0.804" cy="0.804" r="0.804" transform="translate(3.218)" fill="#1e70b9"/>
+        <circle id="Ellipse_78" data-name="Ellipse 78" cx="0.804" cy="0.804" r="0.804" transform="translate(6.435)" fill="#1e70b9"/>
+      </g>
+      <line id="Line_97" data-name="Line 97" x2="40" transform="translate(0 6.18)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <g id="Group_2100" data-name="Group 2100" transform="translate(8.793 21.706)">
+        <g id="Group_2099" data-name="Group 2099">
+          <g id="Group_2097" data-name="Group 2097">
+            <line id="Line_98" data-name="Line 98" x2="16.308" transform="translate(6)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Line_99" data-name="Line 99" x2="3.165" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+          </g>
+          <g id="Group_2098" data-name="Group 2098" transform="translate(0 3.429)">
+            <line id="Line_100" data-name="Line 100" x2="16.308" transform="translate(6)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Line_101" data-name="Line 101" x2="3.165" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_2103" data-name="Group 2103" transform="translate(213.694 49.492)">
+      <g id="Group_2102" data-name="Group 2102">
+        <circle id="Ellipse_79" data-name="Ellipse 79" cx="3.008" cy="3.008" r="3.008" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_102" data-name="Line 102" x2="11.596" transform="translate(6.015 3.008)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_103" data-name="Line 103" y2="1.71" transform="translate(14.111 3.008)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_104" data-name="Line 104" y2="2.311" transform="translate(15.896 3.008)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="33" viewBox="0 0 41 33">
+  <g id="What_Is_My_Browser" data-name="What Is My Browser" transform="translate(-202 -548.167)">
+    <g id="Group_2657" data-name="Group 2657" transform="translate(202.5 548.667)">
+      <g id="Group_2655" data-name="Group 2655">
+        <g id="Group_2654" data-name="Group 2654">
+          <g id="Group_2652" data-name="Group 2652">
+            <rect id="Rectangle_599" data-name="Rectangle 599" width="40" height="32" rx="2" transform="translate(0 0)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+          </g>
+          <g id="Group_2653" data-name="Group 2653" transform="translate(2.268 2.268)">
+            <circle id="Ellipse_185" data-name="Ellipse 185" cx="0.798" cy="0.798" r="0.798" fill="#1e70b9"/>
+            <circle id="Ellipse_186" data-name="Ellipse 186" cx="0.798" cy="0.798" r="0.798" transform="translate(3.193)" fill="#1e70b9"/>
+            <circle id="Ellipse_187" data-name="Ellipse 187" cx="0.798" cy="0.798" r="0.798" transform="translate(6.386)" fill="#1e70b9"/>
+          </g>
+          <line id="Line_302" data-name="Line 302" x2="39.697" transform="translate(0 6.133)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_2656" data-name="Group 2656" transform="translate(11.859 10.956)">
+        <circle id="Ellipse_188" data-name="Ellipse 188" cx="7.99" cy="7.99" r="7.99" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+        <ellipse id="Ellipse_189" data-name="Ellipse 189" cx="3.092" cy="7.99" rx="3.092" ry="7.99" transform="translate(4.897)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_303" data-name="Line 303" x2="15.979" transform="translate(0 7.99)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

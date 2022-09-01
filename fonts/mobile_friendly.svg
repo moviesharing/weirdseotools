@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="41" viewBox="0 0 27 41">
+  <g id="Mobile_Friendly_Test" data-name="Mobile Friendly Test" transform="translate(-40.191 -544.357)">
+    <g id="Group_2399" data-name="Group 2399" transform="translate(40.691 544.857)">
+      <g id="Group_2396" data-name="Group 2396" transform="translate(0 0)">
+        <rect id="Rectangle_546" data-name="Rectangle 546" width="26" height="40" rx="2.5" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_218" data-name="Line 218" x2="26" transform="translate(0 6)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_219" data-name="Line 219" x2="26" transform="translate(0 34)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <circle id="Ellipse_139" data-name="Ellipse 139" cx="0.865" cy="0.865" r="0.865" transform="translate(12.135 35.941)" fill="#1e70b9"/>
+      </g>
+      <g id="Group_2398" data-name="Group 2398" transform="translate(6.078 13.632)">
+        <g id="Group_2397" data-name="Group 2397">
+          <path id="Path_1591" data-name="Path 1591" d="M52.881,559.4a3.622,3.622,0,0,1,3.32-2.25,3.833,3.833,0,0,1,3.62,3.75,3.714,3.714,0,0,1-.115,1.418A6.274,6.274,0,0,1,57.8,565.5l-4.915,4.385L48.05,565.5a6.266,6.266,0,0,1-1.911-3.184,3.754,3.754,0,0,1-.118-1.418,3.833,3.833,0,0,1,3.622-3.75,3.508,3.508,0,0,1,3.237,2.25Zm0,0" transform="translate(-46 -557.147)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

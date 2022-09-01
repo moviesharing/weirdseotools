@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="33" viewBox="0 0 41 33">
+  <g id="Keywords_Density_Checker" data-name="Keywords Density Checker" transform="translate(-117.881 -37.805)">
+    <g id="Group_2091" data-name="Group 2091" transform="translate(118.381 38.305)">
+      <rect id="Rectangle_447" data-name="Rectangle 447" width="40" height="32" rx="2" transform="translate(0)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+    </g>
+    <g id="Group_2092" data-name="Group 2092" transform="translate(120.829 40.329)">
+      <circle id="Ellipse_72" data-name="Ellipse 72" cx="0.82" cy="0.82" r="0.82" fill="#1e70b9"/>
+      <circle id="Ellipse_73" data-name="Ellipse 73" cx="0.82" cy="0.82" r="0.82" transform="translate(3.279)" fill="#1e70b9"/>
+      <circle id="Ellipse_74" data-name="Ellipse 74" cx="0.82" cy="0.82" r="0.82" transform="translate(6.558)" fill="#1e70b9"/>
+    </g>
+    <line id="Line_93" data-name="Line 93" x2="39.763" transform="translate(118.5 44.298)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <g id="Group_2093" data-name="Group 2093" transform="translate(131.373 50.66)">
+      <circle id="Ellipse_75" data-name="Ellipse 75" cx="3.065" cy="3.065" r="3.065" transform="translate(0 7.459)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_94" data-name="Line 94" y1="8.356" x2="8.356" transform="translate(5.232)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_95" data-name="Line 95" x2="1.232" y2="1.232" transform="translate(11.066 2.523)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_96" data-name="Line 96" x2="1.665" y2="1.665" transform="translate(12.352 1.236)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="33" viewBox="0 0 41 33">
+  <g id="Keyword_Difficulty_Checker" data-name="Keyword Difficulty Checker" transform="translate(-285.639 -208.278)">
+    <g id="Group_2168" data-name="Group 2168" transform="translate(286.139 208.778)">
+      <g id="Group_2166" data-name="Group 2166" transform="translate(0)">
+        <rect id="Rectangle_462" data-name="Rectangle 462" width="40" height="32" rx="2" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_2167" data-name="Group 2167" transform="translate(2.663 2.19)">
+        <circle id="Ellipse_93" data-name="Ellipse 93" cx="0.81" cy="0.81" r="0.81" fill="#1e70b9"/>
+        <circle id="Ellipse_94" data-name="Ellipse 94" cx="0.81" cy="0.81" r="0.81" transform="translate(3.24)" fill="#1e70b9"/>
+        <circle id="Ellipse_95" data-name="Ellipse 95" cx="0.81" cy="0.81" r="0.81" transform="translate(6.48)" fill="#1e70b9"/>
+      </g>
+      <line id="Line_144" data-name="Line 144" x2="39.278" transform="translate(0.361 6.112)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <g id="Group_2169" data-name="Group 2169" transform="translate(299.234 220.985)">
+      <path id="Path_1511" data-name="Path 1511" d="M309.837,227a5.919,5.919,0,1,1-5.919-5.919V227Z" transform="translate(-298 -219.113)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_1512" data-name="Path 1512" d="M310.775,225.288a5.918,5.918,0,0,0-5.918-5.917v5.917Z" transform="translate(-296.966 -219.371)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

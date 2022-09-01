@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <g id="Internet_Speed_Test" data-name="Internet Speed Test" transform="translate(-201.589 -373.589)">
+    <g id="Group_2371" data-name="Group 2371" transform="translate(202.089 374.089)">
+      <circle id="Ellipse_129" data-name="Ellipse 129" cx="20" cy="20" r="20" transform="translate(0)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+      <g id="Group_2369" data-name="Group 2369" transform="translate(4.997 5.003)">
+        <line id="Line_201" data-name="Line 201" y2="1.932" transform="translate(14.782)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_202" data-name="Line 202" x2="0.966" y2="1.673" transform="translate(7.383 2.047)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_203" data-name="Line 203" x2="1.673" y2="0.966" transform="translate(2.047 7.641)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_204" data-name="Line 204" x2="1.932" transform="translate(0 15.282)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_205" data-name="Line 205" y1="0.966" x2="1.673" transform="translate(2.047 21.958)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_206" data-name="Line 206" x1="1.673" y1="0.966" transform="translate(25.844 21.958)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_207" data-name="Line 207" x1="1.932" transform="translate(27.633 15.282)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_208" data-name="Line 208" x1="1.673" y2="0.966" transform="translate(25.844 7.641)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_209" data-name="Line 209" x1="0.966" y2="1.673" transform="translate(21.216 2.047)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_2370" data-name="Group 2370" transform="translate(16.5 13.056)">
+        <path id="Path_1587" data-name="Path 1587" d="M220.451,385.951l-3.293,9.213a3.5,3.5,0,0,0,3.293,4.674h0a3.5,3.5,0,0,0,3.293-4.674Z" transform="translate(-216.951 -385.951)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

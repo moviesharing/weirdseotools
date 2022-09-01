@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37" height="35" viewBox="0 0 37 35">
+  <g id="Margin_Calculator" data-name="Margin Calculator" transform="translate(733.278 -551.845)">
+    <path id="Path_2156" data-name="Path 2156" d="M19.573,16.345h20.1a3.378,3.378,0,0,1,3.35,3.406v23.84A3.379,3.379,0,0,1,39.677,47h-20.1a3.38,3.38,0,0,1-3.351-3.406V19.751a3.379,3.379,0,0,1,3.351-3.406" transform="translate(-749 536)" fill="#fff"/>
+    <path id="Rectangle_606" data-name="Rectangle 606" d="M3.351,0h20.1a3.35,3.35,0,0,1,3.35,3.35V27.3a3.351,3.351,0,0,1-3.351,3.351H3.351A3.351,3.351,0,0,1,0,27.3V3.351A3.351,3.351,0,0,1,3.351,0Z" transform="translate(-732.778 552.345)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_2157" data-name="Path 2157" d="M24.6,23.047H34.651a1.675,1.675,0,0,1,1.675,1.675V26.4a1.675,1.675,0,0,1-1.675,1.675H24.6A1.675,1.675,0,0,1,22.924,26.4V24.722A1.675,1.675,0,0,1,24.6,23.047" transform="translate(-748.902 536.117)" fill="#fff"/>
+    <rect id="Rectangle_607" data-name="Rectangle 607" width="13.402" height="5.026" rx="1.675" transform="translate(-725.977 559.163)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_525" data-name="Line 525" x2="3.362" transform="translate(-727.79 571.047)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_526" data-name="Line 526" x2="3.362" transform="translate(-720.937 571.064)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_527" data-name="Line 527" x2="3.362" transform="translate(-720.937 571.064)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_528" data-name="Line 528" x2="3.362" transform="translate(-714.168 570.97)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_529" data-name="Line 529" x2="3.362" transform="translate(-727.79 576.147)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_530" data-name="Line 530" x2="3.362" transform="translate(-720.937 576.164)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_531" data-name="Line 531" x2="3.362" transform="translate(-714.168 576.07)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_2158" data-name="Path 2158" d="M51.9,39.724A10.125,10.125,0,1,1,41.77,29.6,10.125,10.125,0,0,1,51.9,39.724" transform="translate(-748.673 536.496)" fill="#fff"/>
+    <circle id="Ellipse_208" data-name="Ellipse 208" cx="10.125" cy="10.125" r="10.125" transform="translate(-717.028 566.095)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_2159" data-name="Path 2159" d="M45.919,40.489a4.615,4.615,0,1,1-4.614-4.616v4.358h4.6c.006.084.009.171.009.258" transform="translate(-748.747 536.496)" fill="#fff"/>
+    <path id="Path_2160" data-name="Path 2160" d="M45.919,40.489a4.615,4.615,0,1,1-4.614-4.616v4.358h4.6C45.916,40.315,45.919,40.4,45.919,40.489Z" transform="translate(-748.747 536.496)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_2161" data-name="Path 2161" d="M47.614,38.553h-4.6V34.195a4.605,4.605,0,0,1,4.6,4.358" transform="translate(-748.673 536.304)" fill="#fff"/>
+    <path id="Path_2162" data-name="Path 2162" d="M47.614,38.553h-4.6V34.195a4.605,4.605,0,0,1,4.6,4.358Z" transform="translate(-748.673 536.304)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <text id="_" data-name="$" transform="translate(-710.782 579.197)" fill="#1e70b9" font-size="4.199" font-family="Gilroy-ExtraBold, Gilroy ☞" font-weight="800"><tspan x="0" y="0">$</tspan></text>
+    <text id="_2" data-name="%" transform="translate(-709.613 570.949)" fill="#1e70b9" font-size="4.199" font-family="Gilroy-ExtraBold, Gilroy ☞" font-weight="800"><tspan x="0" y="0">%</tspan></text>
+  </g>
+</svg>

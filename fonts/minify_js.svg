@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="41" viewBox="0 0 31 41">
+  <g id="Minify_JS" data-name="Minify JS" transform="translate(-122.375 -714)">
+    <g id="Group_2457" data-name="Group 2457" transform="translate(122.875 714.5)">
+      <g id="Group_2456" data-name="Group 2456">
+        <path id="Path_1629" data-name="Path 1629" d="M150.018,754.5H125.732a2.857,2.857,0,0,1-2.857-2.857V717.357a2.857,2.857,0,0,1,2.857-2.857h16.793a2.852,2.852,0,0,1,2.019.837l7.494,7.494a2.853,2.853,0,0,1,.837,2.019v26.793A2.857,2.857,0,0,1,150.018,754.5Z" transform="translate(-122.875 -714.5)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_1630" data-name="Path 1630" d="M139.49,717.885v7.156h7.156" transform="translate(-120.521 -714.009)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <g id="Group_2455" data-name="Group 2455" transform="translate(5.543 31.127)">
+          <line id="Line_232" data-name="Line 232" x2="18.914" transform="translate(0 4.294)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+          <line id="Line_233" data-name="Line 233" x2="11.758" transform="translate(7.156)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+          <line id="Line_234" data-name="Line 234" x2="3.171" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_2458" data-name="Group 2458" transform="translate(132.174 732.622)">
+      <path id="Path_1631" data-name="Path 1631" d="M135.123,730.409a.6.6,0,0,0-.6.6v4.374c0,.939-.444,1.5-1.187,1.5a1.474,1.474,0,0,1-1.305-.729.557.557,0,0,0-.428-.207.586.586,0,0,0-.43.982A2.56,2.56,0,0,0,133.319,738a2.366,2.366,0,0,0,1.689-.642,2.737,2.737,0,0,0,.7-1.99V731A.592.592,0,0,0,135.123,730.409Z" transform="translate(-131.021 -730.357)" fill="#1e70b9"/>
+      <path id="Path_1632" data-name="Path 1632" d="M139.241,733.615c-1.633-.35-1.762-.736-1.762-1.2,0-.556.538-.946,1.308-.946a2.746,2.746,0,0,1,1.712.578.564.564,0,0,0,.343.107.577.577,0,0,0,.577-.576.6.6,0,0,0-.253-.48,3.8,3.8,0,0,0-2.359-.732,2.268,2.268,0,0,0-2.51,2.139c0,1.391,1.006,1.895,2.52,2.222,1.557.329,1.681.709,1.681,1.172,0,.6-.554,1.006-1.38,1.006a3.005,3.005,0,0,1-2.088-.777.542.542,0,0,0-.38-.15.576.576,0,0,0-.576.587.551.551,0,0,0,.23.457,4.333,4.333,0,0,0,2.785.986,2.322,2.322,0,0,0,2.6-2.209C141.69,734.335,140.381,733.862,139.241,733.615Z" transform="translate(-130.289 -730.364)" fill="#1e70b9"/>
+    </g>
+  </g>
+</svg>

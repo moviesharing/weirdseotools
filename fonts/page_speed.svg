@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="33" viewBox="0 0 41 33">
+  <g id="Page_Speed_Test" data-name="Page Speed Test" transform="translate(-286 -37.5)">
+    <g id="Group_2297" data-name="Group 2297" transform="translate(286.5 38)">
+      <g id="Group_2295" data-name="Group 2295">
+        <g id="Group_2294" data-name="Group 2294">
+          <g id="Group_2292" data-name="Group 2292">
+            <rect id="Rectangle_507" data-name="Rectangle 507" width="39.75" height="32" rx="2" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Group_2293" data-name="Group 2293" transform="translate(2.357 2.357)">
+            <circle id="Ellipse_111" data-name="Ellipse 111" cx="0.83" cy="0.83" r="0.83" fill="#1e70b9"/>
+            <circle id="Ellipse_112" data-name="Ellipse 112" cx="0.83" cy="0.83" r="0.83" transform="translate(3.318)" fill="#1e70b9"/>
+            <circle id="Ellipse_113" data-name="Ellipse 113" cx="0.83" cy="0.83" r="0.83" transform="translate(6.636)" fill="#1e70b9"/>
+          </g>
+          <line id="Line_180" data-name="Line 180" x2="40" transform="translate(0 6.373)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_2296" data-name="Group 2296" transform="translate(10.689 13.169)">
+        <path id="Path_1554" data-name="Path 1554" d="M296.1,59.036a9.311,9.311,0,1,1,18.621,0" transform="translate(-296.1 -49.725)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Path_1555" data-name="Path 1555" d="M304.27,53.675l-1.679,4.7a1.784,1.784,0,0,0,1.679,2.383h0a1.784,1.784,0,0,0,1.679-2.383Z" transform="translate(-294.96 -49.02)" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

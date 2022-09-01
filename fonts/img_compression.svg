@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="41" viewBox="0 0 31 41">
+  <g id="Image_Compression" data-name="Image Compression" transform="translate(-206.375 -34)">
+    <g id="Group_2034" data-name="Group 2034" transform="translate(206.875 34.5)">
+      <g id="Group_2030" data-name="Group 2030">
+        <g id="Group_2029" data-name="Group 2029">
+          <path id="Path_1483" data-name="Path 1483" d="M234.018,74.5H209.732a2.857,2.857,0,0,1-2.857-2.857V37.357a2.857,2.857,0,0,1,2.857-2.857h16.793a2.853,2.853,0,0,1,2.019.837l7.494,7.494a2.853,2.853,0,0,1,.837,2.019V71.643A2.857,2.857,0,0,1,234.018,74.5Z" transform="translate(-206.875 -34.5)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+          <path id="Path_1484" data-name="Path 1484" d="M223.49,37.885v7.161h7.161" transform="translate(-204.529 -34.007)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_2031" data-name="Group 2031" transform="translate(5.712)">
+        <line id="Line_79" data-name="Line 79" y2="13.198" transform="translate(1.804)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_80" data-name="Line 80" x2="3.437" transform="translate(0.086 1.767)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_81" data-name="Line 81" x2="3.437" transform="translate(0.086 4.058)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_82" data-name="Line 82" x2="3.437" transform="translate(0.086 6.35)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_83" data-name="Line 83" x2="3.437" transform="translate(0.086 8.641)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_1485" data-name="Path 1485" d="M213.679,47.428h0a1.8,1.8,0,0,1-1.8-1.8V44.328a.287.287,0,0,1,.286-.286H215.2a.287.287,0,0,1,.286.286v1.295A1.8,1.8,0,0,1,213.679,47.428Z" transform="translate(-211.875 -33.11)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <g id="Group_2033" data-name="Group 2033" transform="translate(6.98 19.235)">
+        <g id="Group_2032" data-name="Group 2032" transform="translate(0)">
+          <rect id="Rectangle_408" data-name="Rectangle 408" width="16.04" height="16.04" rx="2.5" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+        </g>
+        <path id="Path_1486" data-name="Path 1486" d="M213,62.317l4.064-4.141,4.915,4.141,3.042-2.365,4.019,2.408" transform="translate(-213 -50.385)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <circle id="Ellipse_70" data-name="Ellipse 70" cx="1.353" cy="1.353" r="1.353" transform="translate(10.258 3.196)" stroke-width="1" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

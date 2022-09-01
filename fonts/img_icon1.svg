@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52" height="52" viewBox="0 0 52 52">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_429" data-name="Rectangle 429" width="52" height="52"/>
+    </clipPath>
+  </defs>
+  <g id="_13_-_Split_PDF" data-name="13 - Split PDF" clip-path="url(#clip-path)">
+    <g id="Group_974" data-name="Group 974">
+      <g id="website_management_tool" data-name="website management tool">
+        <rect id="Rectangle_432" data-name="Rectangle 432" width="52" height="52" rx="10" fill="#202223"/>
+      </g>
+      <g id="Group_973" data-name="Group 973" transform="translate(11.54 11.827)">
+        <g id="Group_969" data-name="Group 969">
+          <g id="Group_968" data-name="Group 968">
+            <g id="Group_967" data-name="Group 967">
+              <g id="Group_965" data-name="Group 965">
+                <rect id="Rectangle_433" data-name="Rectangle 433" width="18.937" height="18.937" rx="2.5" fill="#202223" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+                <rect id="Rectangle_434" data-name="Rectangle 434" width="18.937" height="18.937" rx="2.5" transform="translate(9.469 9.469)" fill="#202223" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+              </g>
+              <g id="Group_966" data-name="Group 966" transform="translate(3.138 3.138)">
+                <line id="Line_325" data-name="Line 325" x2="5.038" y2="5.038" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+                <path id="Path_328" data-name="Path 328" d="M43.984,297.447v2.537H41.447" transform="translate(-38.947 -294.947)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_972" data-name="Group 972" transform="translate(14.203 16.967)">
+          <g id="Group_970" data-name="Group 970" transform="translate(0 1.97) rotate(-45)">
+            <line id="Line_326" data-name="Line 326" x1="2.786" y1="2.786" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+            <path id="Path_329" data-name="Path 329" d="M0,1.4V0H1.4" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Group_971" data-name="Group 971" transform="translate(5.528 1.97) rotate(-45)">
+            <line id="Line_327" data-name="Line 327" x2="2.786" y2="2.786" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+            <path id="Path_330" data-name="Path 330" d="M1.4,0V1.4H0" transform="translate(1.383 1.383)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

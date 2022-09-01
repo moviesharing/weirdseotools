@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="33" viewBox="0 0 41 33">
+  <g id="Google_Pagerank_Checker" data-name="Google Pagerank Checker" transform="translate(-119 -37.9)">
+    <g id="Group_2283" data-name="Group 2283" transform="translate(119.5 38)">
+      <g id="Group_2281" data-name="Group 2281" transform="translate(0 0.4)">
+        <g id="Group_2280" data-name="Group 2280">
+          <g id="Group_2278" data-name="Group 2278">
+            <rect id="Rectangle_505" data-name="Rectangle 505" width="40" height="32" rx="2" fill="#fff" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Group_2279" data-name="Group 2279" transform="translate(2.343 1.943)">
+            <circle id="Ellipse_105" data-name="Ellipse 105" cx="0.825" cy="0.825" r="0.825" fill="#1e70b9"/>
+            <circle id="Ellipse_106" data-name="Ellipse 106" cx="0.825" cy="0.825" r="0.825" transform="translate(3.298)" fill="#1e70b9"/>
+            <circle id="Ellipse_107" data-name="Ellipse 107" cx="0.825" cy="0.825" r="0.825" transform="translate(6.596)" fill="#1e70b9"/>
+          </g>
+          <line id="Line_178" data-name="Line 178" x2="40" transform="translate(0 5.935)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_2282" data-name="Group 2282" transform="translate(11.169 14.688)">
+        <path id="Path_1548" data-name="Path 1548" d="M128.461,60.3l4.918-4.274,4.414,2.81,8.33-8.295" transform="translate(-128.461 -50.539)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Path_1549" data-name="Path 1549" d="M138.132,50.539h6.333v6.333" transform="translate(-126.804 -50.539)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

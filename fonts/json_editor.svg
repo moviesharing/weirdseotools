@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="41" viewBox="0 0 31 41">
+  <g id="JSON_Editor" data-name="JSON Editor" transform="translate(-290.375 -34)">
+    <g id="Group_2944" data-name="Group 2944" transform="translate(290.875 34.5)">
+      <g id="Group_2942" data-name="Group 2942">
+        <g id="Group_2941" data-name="Group 2941">
+          <path id="Path_1793" data-name="Path 1793" d="M318.018,74.5H293.732a2.857,2.857,0,0,1-2.857-2.857V37.357a2.857,2.857,0,0,1,2.857-2.857h16.793a2.852,2.852,0,0,1,2.019.837l7.494,7.494a2.852,2.852,0,0,1,.837,2.019V71.643A2.857,2.857,0,0,1,318.018,74.5Z" transform="translate(-290.875 -34.5)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+          <path id="Path_1794" data-name="Path 1794" d="M307.49,37.885v7.143h7.143" transform="translate(-288.501 -34.016)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <g id="Group_2940" data-name="Group 2940" transform="translate(5.56 31.143)">
+            <line id="Line_378" data-name="Line 378" x2="18.88" transform="translate(0 4.286)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Line_379" data-name="Line 379" x2="11.737" transform="translate(7.143)" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Line_380" data-name="Line 380" x2="3.165" fill="none" stroke="#1e70b9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_2943" data-name="Group 2943" transform="translate(9.651 14.107)">
+        <path id="Rectangle_681" data-name="Rectangle 681" d="M1.5,0h.97a1.5,1.5,0,0,1,1.5,1.5v9.218a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1.5A1.5,1.5,0,0,1,1.5,0Z" transform="translate(8.602) rotate(45)" fill="#fff" stroke="#1e70b9" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_381" data-name="Line 381" x2="2.807" y2="2.807" transform="translate(6.792 1.81)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_1795" data-name="Path 1795" d="M300.341,53.476,299.319,57.3l3.83-1.023Z" transform="translate(-299.319 -45.896)" fill="#fff" stroke="#1e70b9" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_382" data-name="Line 382" x1="5.769" y2="5.769" transform="translate(2.426 3.212)" fill="none" stroke="#1e70b9" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
