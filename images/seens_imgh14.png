@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title></title>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="theme-color" content="#000">
+<meta name="description" content>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="csrf-token" content="guOrArHnW7WUHw9oCYTtVdDkPZYqnhj0aiFUGOHS">
+<link rel="canonical" href="https://smallseotools.com/webimages/seens_imgh14.png/">
+<meta property="og:type" content="website">
+<meta property="og:title" content>
+<meta property="og:description" content>
+<meta property="og:url" content>
+<meta property="og:image" content="1644831777-homepage.png">
+<meta property="og:site_name" content>
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@smallseotools.com">
+<meta name="twitter:title" content>
+<meta name="twitter:description" content>
+<meta name="twitter:image" content="https://cdn.smallseotools.com/og-images/1644831777-homepage.png">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-39540269-1"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'UA-39540269-1');
+	</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZVFQ50NB89"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-ZVFQ50NB89');
+	</script>
+<link rel="preload" href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,700&display=swap" as="font">
+<link rel="preload" href="https://smallseotools.com/webimages/search.svg" as="image">
+<link rel="preload" href="https://smallseotools.com/webimages/drop_chevron.svg" as="image">
+<link rel="shortcut icon" href="favicon.webp" type="image/x-icon">
+<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,700&amp;display=swap" rel="stylesheet">
+<link href="../css/app.css" rel="stylesheet">
+<link href="../css/templates_1.css" rel="stylesheet">
+<link href="../css/404page.css" rel="stylesheet">
+<style>
+		;
+	</style>
+</head>
+<body>
+<div id="messages_co"></div>
+<style>
+    #ads_free_button{
+        position: fixed;
+        left: 0;
+        top: 220px;
+        background: #564190;
+        z-index: 9;
+        width: 95px;
+        padding: 6px;
+        word-break: break-word;
+        text-align: center;
+        font-size: 16px;
+    }
+    .ads_free_icon_mob{
+        background-image: url('../fonts/adfree%20icon-yellow.svg') !important;
+        width:65px;
+        height:30px;
+        display:inline-block;
+        background-color:#564190 !important;
+        background-size:85% 80% !important;
+        background-position:center !important;
+        background-repeat:no-repeat !important;
+
+    }
+    </style>
+<div class="fixed-top bg-white d-flex border1 border-left-0 border-right-0 border-top-0">
+<span class="nav_beta_con d-none"><span class="nav_beta">BETA</span></span>
+<nav class="navbar navbar-expand-lg navbar-dark cus_nav mx-auto">
+<a class="navbar-brand" href="https://smallseotools.com/">
+<img src="../fonts/logo.svg" alt="Image of website logo" class="img-fluid logo_img" width="200" height="31">
+</a>
+<div class="d-flex">
+<div class="dn_mode d-none mx-2 mr-3 mt-2" onclick="theme_change_f()"></div>
+<button class="navbar-toggler navbar-toggler-right collapsed p-0 border-0 nav_tbtn" type="button" data-toggle="collapse" data-target="#navb" aria-expanded="false">
+<span class="toggle_icon d-inline-block clr_fff"></span>
+</button>
+</div>
+<div class="navbar-collapse collapse" id="navb">
+<div class="log_register mt-3 text-center d-none roe mx-0 align-items-center justify-content-center">
+<a href="https://smallseotools.com/login/" class="rounded text-white d-inline-flex align-items-center justify-content-center mr-2">Login</a>
+</div>
+<ul class="navbar-nav ml-auto">
+<li class="nav-item mdn pro_pricing">
+<a class="nav-link fw_600 cp pro_pricing_bg d-flex align-items-center justify-content-center" href="https://pro.smallseotools.com/pricing" onclick="tool_trigger('navbar price')">
+<img src="../fonts/pricing_icon.svg" alt="PRO Pricing" class="img-fluid mr-2">Pricing </a>
+</li>
+<li class="nav-item mob_links_bb br_hover ">
+<a class="nav-link fw_600 d-flex" href="https://smallseotools.com/plagiarism-checker/">
+<span class="mob_plag mob_icons"></span>Plagiarism Checker </a>
+</li>
+<li class="nav-item mob_links_bb br_hover ">
+<a class="nav-link fw_600 d-flex" href="https://smallseotools.com/grammar-checker/">
+<span class="mob_grammar mob_icons"></span>Grammar Check </a>
+</li>
+<li class="nav-item mob_links_bb br_hover ">
+<a class="nav-link fw_600 d-flex" href="https://smallseotools.com/reverse-image-search/">
+<span class="mob_reverse mob_icons"></span>Reverse Image Search </a>
+</li>
+<li class="nav-item mdn">
+<a class="nav-link fw_600" href="https://smallseotools.com/login/">Login</a>
+</li>
+</ul>
+<div class="search_position">
+<img src="../fonts/search.svg" alt="Type any word to search for SEO tools" class="search_img mr-3 ml-2" id="desktop_toggle_search" width="20" height="20">
+<div class="desk_search">
+<div class="bg-white border1 p-2 bg_202223">
+<div class="search_position">
+<img src="../fonts/search.svg" alt style="position: absolute;top: 16px;left: 20px;">
+<input type="text" class="form-control search_inp rounded bg_f6f8fa border1 clr_fff pr-4 pl-5" placeholder="Type any word to search for SEO tools">
+<span class="cross_icon_desktop clr_fff">&times;</span>
+</div>
+<div class="search_output bg-white pt-3 px-4 pb-4 row mx-0 fw_600">
+<div class="row">
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+ </nav>
+</div>
+<div class="navbar_mt"></div>
+<div class="all_tools_area w-100 bg-white p-4 border1 d-none fw_600 border-left-0 border-right-0 border-top-0 flex-wrap">
+<div class="all_toolsw mx-auto">
+<h3 class="fw_600 w-100 p-3 clr_fff">Categories:</h3>
+<a href="https://smallseotools.com/text-analysis-tools/" class="d-inline-flex align-items-center p-3">
+<span class="all_tools rounded text_tools mr-2"></span>
+<span>Text Analysis Tools</span>
+</a>
+<a href="https://smallseotools.com/image-editing-tools/" class="d-inline-flex align-items-center p-3">
+<span class="all_tools rounded image_tools mr-2"></span>
+<span>Images Editing Tools</span>
+</a>
+<a href="https://smallseotools.com/keyword-tools/" class="d-inline-flex align-items-center p-3">
+<span class="all_tools rounded keyword_tools mr-2"></span>
+<span>Keywords Tools</span>
+</a>
+<a href="https://smallseotools.com/backlink-tools/" class="d-inline-flex align-items-center p-3">
+<span class="all_tools rounded backlink_tools mr-2"></span>
+<span>BackLink Tools</span>
+</a>
+<a href="https://smallseotools.com/web-management-tools/" class="d-inline-flex align-items-center p-3">
+<span class="all_tools rounded management_tools mr-2"></span>
+<span>Website Management Tools</span>
+</a>
+<a href="https://smallseotools.com/website-tracking-tools/" class="d-inline-flex align-items-center p-3">
+<span class="all_tools rounded tracking_tools mr-2"></span>
+<span>Website Tracking Tools</span>
+</a>
+<a href="https://smallseotools.com/proxy-tools/" class="d-inline-flex align-items-center p-3">
+<span class="all_tools rounded proxy_tools mr-2"></span>
+<span>Proxy Tools</span>
+</a>
+<a href="https://smallseotools.com/domain-tools/" class="d-inline-flex align-items-center p-3">
+<span class="all_tools rounded domain_tools mr-2"></span>
+<span>Domains Tools</span>
+</a>
+<a href="https://smallseotools.com/meta-tag-tools/" class="d-inline-flex align-items-center p-3">
+<span class="all_tools rounded mata_tools mr-2"></span>
+<span>Meta Tags Tools</span>
+</a>
+<a href="https://smallseotools.com/password-management-tools/" class="d-inline-flex align-items-center p-3">
+<span class="all_tools rounded password_tools mr-2"></span>
+<span>Password Management Tools</span>
+</a>
+<a href="https://smallseotools.com/pdf-tools/" class="d-inline-flex align-items-center p-3">
+<span class="all_tools rounded pdf_tools mr-2"></span>
+<span>Online PDF Tools</span>
+</a>
+<a href="https://smallseotools.com/web-development-tools/" class="d-inline-flex align-items-center p-3">
+<span class="all_tools rounded development_tools mr-2"></span>
+<span>Development Tools</span>
+</a>
+<a href="https://smallseotools.com/unit-converters/" class="d-inline-flex align-items-center p-3">
+<span class="all_tools rounded unit_tools mr-2"></span>
+<span>Unit Converter Tools</span>
+</a>
+<a href="https://smallseotools.com/binary-converters/" class="d-inline-flex align-items-center p-3">
+<span class="all_tools rounded binary_tools mr-2"></span>
+<span>Binary Converter Tools</span>
+</a>
+<a href="https://smallseotools.com/calculators/" class="d-inline-flex align-items-center p-3">
+<span class="all_tools rounded binary_tools mr-2"></span>
+<span>Online Calculators</span>
+</a>
+<a href="https://smallseotools.com/other-tools/" class="d-inline-flex align-items-center p-3">
+<span class="all_tools rounded binary_tools mr-2"></span>
+<span>Other Tools</span>
+</a>
+</div>
+</div>
+<div class="day_night bg-white border1 fw_700 p-2 text-center">
+<div class="dn_mode d-none d-inline-block"></div>
+<div data-light="Light Mode" data-dark="Dark Mode" id="theme_mode_text">
+Light Mode </div>
+<label class="switch d-inline-block mb-0">
+<input type="checkbox" onclick="theme_change_f()">
+<span class="slider round cp"></span>
+</label>
+</div>
+<div class="p-4 mps mob_search d-none">
+<div class="input-group">
+<input type="search" id="mob_cros_icon" class="form-control mob_search_inp rounded-0 bg-white border1 clr_fff" placeholder="Type any word to search for SEO tools">
+<div class="mob_search_img d-flex align-items-center justify-content-center">
+<span class="cross_icon clr_fff bg_383b3d">&times;</span>
+<span data-rklazy="{"fullpath":"https://smallseotools.com/webimages/mob_search.svg","type":"img","alt":"image of mobile search"}"></span>
+</div>
+</div>
+
+<div class="search_output bg-white pt-3 px-4 pb-4 row border1 fw_600 mps">
+<div class="row m-0"></div>
+</div>
+</div>
+<div class="pt-3 error_pages">
+<div class="d-flex justify-content-center px-2 mb-3 err_page_pn">
+<div class="main_area_report text-center">
+<div class="col bg-white p-0 bg_202223 page_404 pt-5">
+
+<div class="page_404_img mt-5 mx-auto"></div>
+<div class="fw_700 e_page">ERROR PAGE</div>
+<div class="fw_700 fs26 clr_fff">We couldn't connect the dots.</div>
+<div class="fs20 clr_fff">This page was not found. You may have mistyped the<br>address or the page may have moved.</div>
+<a href="https://smallseotools.com" class="fw_600 d-flex text-white text-decoration-none g_btn mx-auto align-items-center mt-4">Go Back Home</a>
+</div>
+</div>
+</div>
+</div>
+<script>
+		var base_url='https://smallseotools.com/';
+	</script>
+<script src="../js/app.js"></script>
+<script src="../js/myscript_1.js"></script>
+<script>
+		$.fn.bttooltip = $.fn.tooltip;
+		$(document).ready(function(){
+						
+			;
+		});
+		
+		setTimeout(function(){
+							$('.g-recaptcha[captcha-load]').click(function(){
+					check_validation();
+				});
+						check_captcha_load();
+		},2000);
+		function check_captcha_load(){
+			var text=$('[captcha-load]').attr('captcha-load');
+			if(typeof text != 'undefined'){
+				$('[captcha-load]').attr('value',text);
+				$('[captcha-load]').text(text);
+				$('.hide_click').remove();
+			}
+		}
+		function captcha_submit(){
+			setCookie('submission','done',1);
+			$('#check_value').val('test');
+			$('[captcha-load]').parents('form:first').submit();
+		}
+		
+
+		
+								function ads_function(){
+				adblock2F='';
+				var img = new Image();
+				img.src = 'https://smallseotools.com/imgs/ads/love_you_son.jpg';
+				img.onload = function(){
+					adblock2F=false;
+				};
+				img.onerror = function(){
+					adblock2F=true;
+				};
+				if(typeof(window.google_jobrunner)==="undefined"){
+					find2__=true;
+				}else if(window.google_jobrunner.length==0){
+					find2__=true;
+				}
+				if(find2__||adblock2F){
+					$(".new___s_").each(function(){
+						var second_class_name=$(this).attr('class').split(' ')[1];
+						if (second_class_name == 'b'){
+							var class_counter=(Math.floor(Math.random() * 5) + 1);
+							if(class_counter == '5'){
+								$img_html='<img src="https://smallseotools.com/webimages/__b'+class_counter+'.gif">';
+							}else{
+								$img_html='<img src="https://smallseotools.com/webimages/__b'+class_counter+'.png">';
+							}
+						}else if(second_class_name == 's'){
+							$img_html='<img src="https://smallseotools.com/webimages/__s'+(Math.floor(Math.random() * 2) + 1)+'.gif">';
+						}
+						$(this).html('<a href="https://smallseotools.com/deep-check-g/" target="_blank" rel="nofollow noopener" title="read more">'+$img_html+'</a>');
+					});
+					// $(".adsbygoogle").each(function(){$(this).attr('style','display:none!important')});
+				}else{
+					dataLayer.push({'event': 'AdvPageView'});
+				}
+			}
+			ads_function();
+				// copy text, value and html function start
+		function CopyText(ev,selector,selector_type) {
+			window.Clipboard = (function(window, document, navigator) {
+				var textArea,
+				copy;
+				function isOS() {
+					return navigator.userAgent.match(/ipad|iphone/i);
+				}
+				function createTextArea(text) {
+					textArea = document.createElement('textArea');
+					textArea.value = text;
+					document.body.appendChild(textArea);
+				}
+				function selectText() {
+					var range,
+						selection;
+					if (isOS()) {
+						range = document.createRange();
+						range.selectNodeContents(textArea);
+						selection = window.getSelection();
+						selection.removeAllRanges();
+						selection.addRange(range);
+						textArea.setSelectionRange(0, 999999);
+					} else {
+						textArea.select();
+					}
+				}
+				function copyToClipboard() {
+					document.execCommand('copy');
+					document.body.removeChild(textArea);
+				}
+				copy = function(text) {
+					createTextArea(text);
+					selectText();
+					copyToClipboard();
+				};
+				return {
+					copy: copy
+				};
+			})
+			(window, document, navigator);
+			var copy_store='';
+			var copy_length=3;
+			if (selector_type == 'value' || selector_type == 'shortvalue') {
+				copy_store=$('#'+selector).val();
+			}else if (selector_type == 'text' || selector_type == 'shorttext'){
+				copy_store=$('#'+selector).text();
+			}else if (selector_type == 'html'){
+				copy_store=$('#'+selector).html();
+			}else if (selector_type == 'html_without_br'){
+				copy_store=remove_tags($('#'+selector).html());
+			}
+			if(selector_type == 'shorttext' || selector_type == 'shortvalue'){
+				copy_length=1;
+			}
+			if (copy_store == '') {
+				hideTooltip(ev);
+				show_messages('Error', 'No content found to copy');
+			}else if(copy_store.length < copy_length){
+				show_messages('Error', 'Text too short for copy');
+			}else{
+				Clipboard.copy(copy_store);
+				selectText(selector);
+				setTooltip(ev,'Copied!');
+				hideTooltip(ev);
+			}
+		}
+		// copy text, value and html function start
+	</script>
+</body>
+</html>
+<div class="as_seen bg-white row mx-0 justify-content-center py-4 px-2 border1 border-left-0 border-right-0">
+<h3 class="fw_600 w-100 text-center mb-3 clr_fff">AS SEEN ON:</h3>
+<div id="demo" class="carousel slide in_as_seen px-5" data-ride="carousel">
+
+<div class="carousel-inner">
+<div class="carousel-item active">
+<div class="row mx-0">
+<a class="col mx-2 d-flex justify-content-center p-2 border1">
+<div class="seen_slider" data-rklazy="{"name":"seens_img1","type":"background"}"></div>
+</a>
+<a class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy="{"name":"seens_img2","type":"background"}"></div>
+</a>
+<a class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy="{"name":"seens_img4","type":"background"}"></div>
+</a>
+<a class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy="{"name":"seens_img5","type":"background"}"></div>
+</a>
+<a class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy="{"name":"seens_img7","type":"background"}"></div>
+</a>
+</div>
+</div>
+<div class="carousel-item">
+<div class="row mx-0">
+<a class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy="{"name":"seens_img8","type":"background"}"></div>
+</a>
+<a class="col mx-2 d-flex justify-content-center p-2 border1">
+<div class="seen_slider" data-rklazy="{"name":"seens_img9","type":"background"}"></div>
+</a>
+<a class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy="{"name":"seens_img10","type":"background"}"></div>
+</a>
+<a class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy="{"name":"seens_img11","type":"background"}"></div>
+</a>
+<a class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy="{"name":"seens_img12","type":"background"}"></div>
+</a>
+</div>
+</div>
+<div class="carousel-item">
+<div class="row mx-0">
+<a href="https://www.semrush.com/sem/?ref=0476999335&amp;refer_source=as_seen_on&amp;utm_source=berush&amp;utm_medium=promo&amp;utm_campaign=banner" target="_blank" rel="noopener" title="semrush" class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy="{"name":"seens_img13","type":"background"}"></div>
+</a>
+<a class="col mx-2 d-flex justify-content-center p-2 border1">
+<div class="seen_slider" data-rklazy="{"name":"seens_img1","type":"background"}"></div>
+</a>
+<a class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy="{"name":"seens_img2","type":"background"}"></div>
+</a>
+<a class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy="{"name":"seens_img4","type":"background"}"></div>
+</a>
+<a class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy="{"name":"seens_img5","type":"background"}"></div>
+</a>
+</div>
+</div>
+</div>
+
+<a class="carousel-control-prev rounded-circle" href="#demo" data-slide="prev">
+<span data-rklazy="{"fullpath":"https://smallseotools.com/webimages/chevron_left.svg","type":"img","alt":"image left","class":"img-fluid"}"></span>
+</a>
+<a class="carousel-control-next rounded-circle" href="#demo" data-slide="next">
+<span data-rklazy="{"fullpath":"https://smallseotools.com/webimages/chevron_right.svg","type":"img","alt":"image right","class":"img-fluid"}"></span>
+</a>
+</div>
+</div>
+<div class="main_fpt px-4 pt-4 pb-3 mps bg_f6f8fa row mx-0 justify-content-center">
+<div class="sub_area">
+<div class="col-12 px-0 py-3 row mx-0 text-center text-break clr_fff">
+<div class="col-md-3">
+<div class="d-inline-block text-left">
+<a href="https://smallseotools.com/">
+<img src="../fonts/logo.svg" alt="Image of website logo" class="img-fluid logo_img" width="200" height="31">
+</a>
+<div class="fw_700 fs22 mt-3">Contact Us</div>
+<div><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e0939590908f9294a0938d818c8c93858f948f8f8c93ce838f8d">[email&#160;protected]</a></div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="d-inline-block text-left">
+<div class="fw_700 fs22">Address</div>
+<div>438, Streatham High Road<br>London, UK.<br>SW16 3PX</div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="d-inline-block text-left">
+<a class="footer_links clr_fff d-block mb-1" href="https://smallseotools.com/term-of-services/">Terms of Services</a>
+<a class="footer_links clr_fff d-block mb-1" href="https://smallseotools.com/testimonials/">Testimonials</a>
+<a class="footer_links clr_fff d-block mb-1" href="https://smallseotools.com/contact-us/">Contact Us</a>
+<a class="footer_links clr_fff d-block mb-1" href="https://smallseotools.com/about-us/">About us</a>
+<a class="footer_links clr_fff d-block mb-1" href="https://smallseotools.com/advertise/">Advertise</a>
+<a class="footer_links clr_fff d-block mb-1" href="https://smallseotools.com/privacy/">Privacy</a>
+</div>
+</div>
+<div class="col-md-3">
+<div class="d-inline-block text-left">
+<a class="footer_links clr_fff d-block mb-1" href="https://smallseotools.com/refund-policy/">Refund Policy</a>
+<a class="footer_links clr_fff d-block mb-1" href="https://smallseotools.com/blog/">Blog</a>
+<a class="footer_links clr_fff d-block mb-1" href="https://smallseotools.com/faqs/">FAQs</a>
+<a class="footer_links clr_fff d-block mb-1" href="https://pro.smallseotools.com/pricing">Pricing</a>
+<a class="footer_links clr_fff d-block mb-1" href="https://designstudio.smallseotools.com/">Design Studio</a>
+</div>
+</div>
+</div>
+<div class="row mx-0">
+<div class="col-md-6 p-2">
+<div class="p-4 text-center row mx-0 align-content-center justify-content-center border1 bg-white mps bg_2f3133">
+<div class="sub_headings">You May Like Our Most Popular Tools & Apps</div>
+<div class="d-flex justify-content-center fpop_tools mt-3 mb-4">
+<a href="https://smallseotools.com/plagiarism-checker-api/" class="d-inline-flex align-items-center justify-content-center rounded-circle mx-1">
+<span class="d-block" data-rklazy="{"name":"f_api","type":"background"}"></span>
+</a>
+<a href="https://apps.apple.com/gb/developer/content-arcade-dubai-ltd-fze/id1355616995" class="d-inline-flex align-items-center justify-content-center rounded-circle mx-1" target="_blank">
+<span class="d-block" data-rklazy="{"name":"f_apple","type":"background"}"></span>
+</a>
+<a href="https://play.google.com/store/apps/dev?id=6096060713339252212&hl=en" target="_blank" class="d-inline-flex align-items-center justify-content-center rounded-circle mx-1">
+<span class="d-block" data-rklazy="{"name":"f_android","type":"background"}"></span>
+</a>
+<a href="https://www.plagiarismsoftware.com/" target="_blank" class="d-inline-flex align-items-center justify-content-center rounded-circle mx-1">
+<span class="d-block" data-rklazy="{"name":"f_desktop","type":"background"}"></span>
+</a>
+<a href="https://smallseotools.com/wordpress-plagiarism-checker/" class="d-inline-flex align-items-center justify-content-center rounded-circle mx-1">
+<span class="d-block" data-rklazy="{"name":"f_wordpress","type":"background"}"></span>
+</a>
+</div>
+</div>
+</div>
+<div class="col-md-6 p-2">
+<div class="pt-4 pb-3 px-4 text-center border1 bg-white mps bg_2f3133">
+<div class="sub_headings">Subscribe to our Newsletter & Stay updated</div>
+<div class="input-group mb-3 subs_inp bg_f6f8fa p-1 bg_202223">
+<input type="email" name="email" placeholder="Enter your email address" class="form-control rounded-0 border-0 bg_f6f8fa bg_202223 h-100">
+<div class="input-group-append">
+
+<button type="submit" class="btn subs_button text-white rounded-0"><span data-rklazy="{"fullpath":"https://smallseotools.com/webimages/subscribe_btn.svg","type":"img","alt":"image right","class":"img-fluid mr-1"}"></span>Subscribe</button>
+</div>
+</div>
+<div class="social_box">
+<a href="https://www.facebook.com/smallseotools" target="_blank" class="d-inline-block mx-1" data-rklazy="{"name":"sub_facebook","type":"background"}"></a>
+<a href="https://twitter.com/smallseotools1" target="_blank" class="d-inline-block mx-1" data-rklazy="{"name":"sub_twitter","type":"background"}"></a>
+<a href="https://www.linkedin.com/company/content-arcade/" target="_blank" class="d-inline-block mx-1" data-rklazy="{"name":"sub_linkedin","type":"background"}"></a>
+<a href="https://www.youtube.com/channel/UCuqHvzAavqmyVlolYO1SXMQ" target="_blank" class="d-inline-block mx-1" data-rklazy="{"name":"sub_youtube","type":"background"}"></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p class="text-center footer_links clr_fff m-0 mt-2 w-100">Copyright © 2012-2022 by <a href="https://smallseotools.com/" class="footer_links clr_fff">SmallSEOTools.com</a> All Rights Reserved.</p>
+</div>
+<div class="for_footer_ad">
+</div><script data-cfasync="false" src="../js/email-decode.min.js"></script>
